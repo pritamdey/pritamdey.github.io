@@ -4,7 +4,7 @@ title: "Bio"
 
 I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.
 
-## Education
+### Education
 
 -   PhD in Statistics, Duke University, 2023
 
@@ -18,7 +18,7 @@ I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a 
 
     -   S. H. Aravind Gold Medal awardee for outstanding performance
 
-## Work Experience
+### Work Experience
 
 -   Postdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present
 

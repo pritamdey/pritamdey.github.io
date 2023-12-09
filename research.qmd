@@ -7,12 +7,12 @@ I am highly motivated to develop novel statistical methodology for complex struc
 
 This page will soon contain a brief description for each of my research interest areas.
 
-## Publications and Preprints
+### Publications and Preprints
 
 1.  *Outlier Detection for Multi-Network Data:* Dey, P., Zhang, Z., & Dunson, D. B. [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac431)(2022). Preprint: [arXiv](https://arxiv.org/abs/2205.06398). Code: [R](https://github.com/pritamdey/ODIN-r) and [Python](https://github.com/pritamdey/ODIN-python).
 2.  *dame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference:* Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: [arXiv](https://arxiv.org/abs/2101.01867) (2021)
 
-## Working Papers
+### Working Papers
 
 1.  *Fast Scalable Density Estimation for Continuous Structural Connectomics:* Dey, P., Zhang, Z., & Dunson, D. B.
 
