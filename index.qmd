@@ -1,0 +1,24 @@
+---
+title: "Pritam Dey"
+about: 
+  template: jolla
+  image: images/myself_1.jpg
+  image-shape: round
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/pritam.dey.5891
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/pritamdey1906
+    - icon: github
+      text: Github
+      href: https://github.com/pritamdey
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:pritam.dey@tamu.edu
+---
+
+::: {#hero-heading}
+I am a statistician working as a postdoctoral researcher at the [Texas A&M University](#0 "Department of Statistics, Texas A&M University"). My work focuses on development of statistical methodology for complex data in real world applications. Apart from work, I enjoy puzzle solving, binging tv shows and movies and good food.
+:::
