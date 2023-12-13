@@ -2,7 +2,7 @@
 title: "Pritam Dey"
 about: 
   template: jolla
-  image: images/myself_1.jpg
+  image: images/homepage_pic2.jpg
   image-shape: round
   links:
     - icon: facebook
