@@ -1,0 +1,26 @@
+---
+title: "Research Interests"
+bibliography: references.bib
+---
+
+I am highly motivated to develop novel statistical methodology for complex structured data with great emphasis on real world application and computational performance. My current research projects as a postdoc include data analytic and methodological research on multi-omics data, spatial transtriptomics and generative AI. Previously, during my PhD, I worked on models for brain structural connectomes.
+
+## Bioinformatics
+
+As a postdoctoral researcher, I am working on bioinformatics projects involving multi-omics data at [Chapkin lab](https://chapkinlab.tamu.edu/ "Chapkin Lab"). I am also working on methods for spatial transcriptomics and single cell RNA sequencing data with my mentors [Dr. Yang Ni](https://web.stat.tamu.edu/~yni/ "Dr. Yang Ni") and [Dr. Bani Mallick](https://web.stat.tamu.edu/~bmallick/ "Dr. Bani Mallick").
+
+## Artificial Intelligence (AI)
+
+Another direction of my current research work involves developing methods at the interface of artificial generative intelligence and variational Bayes algorithms for applications in bioinformatics and material sciences.
+
+## Brain Connectomics
+
+Brain connectomics is the study of connections in the brain. In particular, structural connectomics is the study of physical connections in the brain. My PhD dissertation involved developing novel methods for outlier detection and modeling in the context of structural connectomes.
+
+1.  *Outlier Detection for Multi-Network Data:* Dey, P., Zhang, Z., & Dunson, D. B. [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac431)(2022). Preprint: [arXiv](https://arxiv.org/abs/2205.06398). Code: [R](https://github.com/pritamdey/ODIN-r) and [Python](https://github.com/pritamdey/ODIN-python).
+2.  *Fast Scalable Density Estimation for Continuous Structural Connectomics:* Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)
+3.  *Hierarchical Muliple Density Estimation using Mondrian Processes:* Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)
+
+## Other projects
+
+1.  *dame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference:* Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: [arXiv](https://arxiv.org/abs/2101.01867) (2021)
