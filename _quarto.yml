@@ -30,7 +30,10 @@ website:
 
 format:
   html:
-    theme: pulse
+    theme: 
+      - superhero
+      - custom.scss
+    mainfont: sans-serif
     css: styles.css
     toc: true
 
