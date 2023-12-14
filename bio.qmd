@@ -4,6 +4,16 @@ title: "Bio"
 
 I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.
 
+### Work Experience
+
+-   Postdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present
+
+-   Graduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023
+
+-   Graduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023
+
+    -   Courses: *Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23).*
+
 ### Education
 
 -   PhD in Statistics, Duke University, 2023
@@ -17,13 +27,3 @@ I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a 
 -   Bachelor of Mathematics (B. Math), Indian Statistical Institute, 2016
 
     -   S. H. Aravind Gold Medal awardee for outstanding performance
-
-### Work Experience
-
--   Postdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present
-
--   Graduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023
-
--   Graduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023
-
-    -   Courses: *Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23).*

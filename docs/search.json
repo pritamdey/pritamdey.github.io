@@ -4,7 +4,7 @@
     "href": "bio.html",
     "title": "Bio",
     "section": "",
-    "text": "I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.\n\nEducation\n\nPhD in Statistics, Duke University, 2023\n\nDissertation: Some Advances in Statistical modeling of Brain Structural Connectomes\nAdvisor: Dr. David Dunson\n\nMasters of Statistics (M. Stat), Indian Statistical Institute, 2018\nBachelor of Mathematics (B. Math), Indian Statistical Institute, 2016\n\nS. H. Aravind Gold Medal awardee for outstanding performance\n\n\n\n\nWork Experience\n\nPostdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present\nGraduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023\nGraduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023\n\nCourses: Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23)."
+    "text": "I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.\n\nWork Experience\n\nPostdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present\nGraduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023\nGraduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023\n\nCourses: Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23).\n\n\n\n\nEducation\n\nPhD in Statistics, Duke University, 2023\n\nDissertation: Some Advances in Statistical modeling of Brain Structural Connectomes\nAdvisor: Dr. David Dunson\n\nMasters of Statistics (M. Stat), Indian Statistical Institute, 2018\nBachelor of Mathematics (B. Math), Indian Statistical Institute, 2016\n\nS. H. Aravind Gold Medal awardee for outstanding performance"
   },
   {
     "objectID": "index.html",
@@ -25,14 +25,14 @@
     "href": "research.html#bioinformatics",
     "title": "Research Interests",
     "section": "Bioinformatics",
-    "text": "Bioinformatics\nAs a postdoctoral researcher, I am working on bioinformatics projects involving multi-omics data at Chapkin lab. I am also working on methods for spatial transcriptomics and single cell RNA sequencing data with my mentors Dr. Yang Ni and Dr. Bani Mallick."
+    "text": "Bioinformatics\nAs a postdoctoral researcher, I am working on bioinformatics projects involving multi-omics data analysis at Chapkin lab. I am also working on methods for spatial transcriptomics and single cell RNA sequencing data with mentors Dr. Yang Ni and Dr. Bani Mallick."
   },
   {
     "objectID": "research.html#artificial-intelligence-ai",
     "href": "research.html#artificial-intelligence-ai",
     "title": "Research Interests",
     "section": "Artificial Intelligence (AI)",
-    "text": "Artificial Intelligence (AI)\nAnother direction of my current research work involves developing methods at the interface of artificial generative intelligence and variational Bayes algorithms for applications in bioinformatics and material sciences."
+    "text": "Artificial Intelligence (AI)\nAnother direction of my current research work involves developing methods at the interface of artificial generative intelligence and Bayesian analysis motivated by applications in bioinformatics and material sciences under the mentorship of Dr. Debdeep Pati and Dr. Bani Mallick."
   },
   {
     "objectID": "research.html#brain-connectomics",

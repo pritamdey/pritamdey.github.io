@@ -7,11 +7,11 @@ I am highly motivated to develop novel statistical methodology for complex struc
 
 ## Bioinformatics
 
-As a postdoctoral researcher, I am working on bioinformatics projects involving multi-omics data at [Chapkin lab](https://chapkinlab.tamu.edu/ "Chapkin Lab"). I am also working on methods for spatial transcriptomics and single cell RNA sequencing data with my mentors [Dr. Yang Ni](https://web.stat.tamu.edu/~yni/ "Dr. Yang Ni") and [Dr. Bani Mallick](https://web.stat.tamu.edu/~bmallick/ "Dr. Bani Mallick").
+As a postdoctoral researcher, I am working on bioinformatics projects involving multi-omics data analysis at [Chapkin lab](https://chapkinlab.tamu.edu/ "Chapkin Lab"). I am also working on methods for spatial transcriptomics and single cell RNA sequencing data with mentors [Dr. Yang Ni](https://web.stat.tamu.edu/~yni/ "Dr. Yang Ni") and [Dr. Bani Mallick](https://web.stat.tamu.edu/~bmallick/ "Dr. Bani Mallick").
 
 ## Artificial Intelligence (AI)
 
-Another direction of my current research work involves developing methods at the interface of artificial generative intelligence and variational Bayes algorithms for applications in bioinformatics and material sciences.
+Another direction of my current research work involves developing methods at the interface of artificial generative intelligence and Bayesian analysis motivated by applications in bioinformatics and material sciences under the mentorship of [Dr. Debdeep Pati](https://web.stat.tamu.edu/~debdeep/Home.html "Dr. Debdeep Pati") and [Dr. Bani Mallick](https://web.stat.tamu.edu/~bmallick/ "Dr. Bani Mallick").
 
 ## Brain Connectomics
 
