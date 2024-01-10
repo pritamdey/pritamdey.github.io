@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "bio.html",
-    "href": "bio.html",
-    "title": "Bio",
-    "section": "",
-    "text": "I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.\n\nWork Experience\n\nPostdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present\nGraduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023\nGraduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023\n\nCourses: Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23).\n\n\n\n\nEducation\n\nPhD in Statistics, Duke University, 2023\n\nDissertation: Some Advances in Statistical modeling of Brain Structural Connectomes\nAdvisor: Dr. David Dunson\n\nMasters of Statistics (M. Stat), Indian Statistical Institute, 2018\nBachelor of Mathematics (B. Math), Indian Statistical Institute, 2016\n\nS. H. Aravind Gold Medal awardee for outstanding performance"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pritam Dey",
-    "section": "",
-    "text": "I am a statistician working as a postdoctoral researcher at Texas A&M University. My work focuses on development of statistical methodology for complex data in real world applications. Apart from work, I enjoy puzzle solving, binging tv shows and movies and good food."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research Interests",
@@ -47,5 +33,19 @@
     "title": "Research Interests",
     "section": "Other projects",
     "text": "Other projects\n\ndame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference: Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: arXiv (2021)"
+  },
+  {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Bio",
+    "section": "",
+    "text": "I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.\n\nWork Experience\n\nPostdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present\nGraduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023\nGraduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023\n\nCourses: Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23).\n\n\n\n\nEducation\n\nPhD in Statistics, Duke University, 2023\n\nDissertation: Some Advances in Statistical modeling of Brain Structural Connectomes\nAdvisor: Dr. David Dunson\n\nMasters of Statistics (M. Stat), Indian Statistical Institute, 2018\nBachelor of Mathematics (B. Math), Indian Statistical Institute, 2016\n\nS. H. Aravind Gold Medal awardee for outstanding performance"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pritam Dey",
+    "section": "",
+    "text": "I am a statistician working as a postdoctoral researcher at Texas A&M University. My work focuses on development of statistical methodology for complex data in real world applications. Apart from work, I enjoy puzzle solving, binging tv shows and movies and good food."
   }
 ]

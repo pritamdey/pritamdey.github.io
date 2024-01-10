@@ -20,5 +20,5 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a statistician working as a postdoctoral researcher at [Texas A&M University](#0 "Department of Statistics, Texas A&M University"). My work focuses on development of statistical methodology for complex data in real world applications. Apart from work, I enjoy puzzle solving, binging tv shows and movies and good food.
+I am a statistician working as a postdoctoral researcher at [Texas A&M University](https://stat.tamu.edu/ "TAMU Statistics"). My work focuses on development of statistical methodology for complex data in real world applications. Apart from work, I enjoy puzzle solving, binging tv shows and movies and good food.
 :::
