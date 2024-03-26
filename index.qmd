@@ -19,6 +19,37 @@ about:
       href: mailto:pritam.dey@tamu.edu
 ---
 
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pritam Dey",
+  "gender": "Male",
+  "email": "pritam.dey@tamu.edu",
+  "jobTitle": "Postdoctoral Research Associate",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Texas A&M University",
+    "department": "Department of Statistics",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "College Station",
+      "addressRegion": "TX",
+      "addressCountry": "USA"
+    }
+  },
+  "url": "https://pritamdey.github.io/",
+  "image": "https://pritamdey.github.io/images/homepage_pic2.jpg",
+  "sameAs": [
+    "https://linkedin.com/in/pritamdey1906",
+    "https://www.facebook.com/pritam.dey.5891",
+    "https://github.com/pritamdey",
+    "https://scholar.google.com/citations?user=R_NYzWsAAAAJ&hl=en"
+  ]
+}
+</script>
+```
 ::: {#hero-heading}
 I am a statistician working as a postdoctoral researcher at [Texas A&M University](https://stat.tamu.edu/ "TAMU Statistics"). My work focuses on development of statistical methodology for complex data in real world applications. Apart from work, I enjoy puzzle solving, binging tv shows and movies and good food.
 :::
