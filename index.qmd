@@ -51,5 +51,5 @@ about:
 </script>
 ```
 ::: {#hero-heading}
-I am a statistician working as a postdoctoral researcher at [Texas A&M University](https://stat.tamu.edu/ "TAMU Statistics"). My work focuses on development of statistical methodology for complex data in real world applications. Apart from work, I enjoy puzzle solving, binging tv shows and movies and good food.
+Hello! I’m Pritam Dey, a postdoctoral researcher passionate about transforming complex biological data into meaningful insights through Bayesian models and machine learning. My current work includes developing methods for spatial transcriptomics and multi-omics integration, as well as variational inference algorithms.
 :::
