@@ -20,8 +20,6 @@ I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a 
 
     -   Dissertation: *Some Advances in Statistical modeling of Brain Structural Connectomes*
 
-    -   Advisor: [Dr. David Dunson](https://scholars.duke.edu/person/dunson "Dr. Dunson Scholars@Duke")
-
 -   Masters of Statistics (M. Stat), Indian Statistical Institute, 2018
 
 -   Bachelor of Mathematics (B. Math), Indian Statistical Institute, 2016

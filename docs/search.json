@@ -4,55 +4,69 @@
     "href": "bio.html",
     "title": "Bio",
     "section": "",
-    "text": "I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.\n\nWork Experience\n\nPostdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present\nGraduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023\nGraduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023\n\nCourses: Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23).\n\n\n\n\nEducation\n\nPhD in Statistics, Duke University, 2023\n\nDissertation: Some Advances in Statistical modeling of Brain Structural Connectomes\nAdvisor: Dr. David Dunson\n\nMasters of Statistics (M. Stat), Indian Statistical Institute, 2018\nBachelor of Mathematics (B. Math), Indian Statistical Institute, 2016\n\nS. H. Aravind Gold Medal awardee for outstanding performance"
+    "text": "I grew up in Kolkata in the Indian state of West Bengal. As a young boy I had a deep interest in science and mathematics. I subsequently went on to pursue my undergraduate degree in Mathematics from Indian Statistical Institute. During my undergraduate studies, I developed a deep interest in statistics and data science, which culminated in a masters and PhD in Statistics.\n\nWork Experience\n\nPostdoctoral Research Associate, Department of Statistics, Texas A&M University, 2023 - Present\nGraduate Research Assistant, Department of Statistical Science, Duke University, 2019 - 2023\nGraduate Teaching Assistant, Department of Statistical Science, Duke University, 2019 - 2023\n\nCourses: Linear Models (Fall 19), Probability (Summer 20), Measure Theory (Fall 20), Predictive Modeling and Statistical Learning (Fall 21), Probabilistic Machine Learning (Spring 23), Introductory Data Science (Summer 23).\n\n\n\n\nEducation\n\nPhD in Statistics, Duke University, 2023\n\nDissertation: Some Advances in Statistical modeling of Brain Structural Connectomes\n\nMasters of Statistics (M. Stat), Indian Statistical Institute, 2018\nBachelor of Mathematics (B. Math), Indian Statistical Institute, 2016\n\nS. H. Aravind Gold Medal awardee for outstanding performance"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research Interests",
     "section": "",
-    "text": "I am highly motivated to develop novel statistical methodology for complex structured data with great emphasis on real world application and computational performance. My current research projects as a postdoc include data analytic and methodological research on multi-omics data, spatial transtriptomics and variational inference. Previously, during my PhD, I worked on models for brain structural connectomes."
+    "text": "I am highly motivated to develop novel statistical methodology for complex structured data with great emphasis on real world application and computational performance. My current research projects as a postdoc include data analytic and methodological research on multi-omics data, spatial transtriptomics and variational inference. Previously, during my PhD, I worked on models for brain structural connectomes. This is a brief description of my current and past research projects."
   },
   {
     "objectID": "research.html#spatial-transcriptomics",
     "href": "research.html#spatial-transcriptomics",
     "title": "Research Interests",
     "section": "Spatial Transcriptomics",
-    "text": "Spatial Transcriptomics\nI am currently working on a range of projects focusing on novel Bayesian methodology for Spatially Resolved Transcriptomics (SRT) data, where gene expression is measured across different locations in a tissue sample. Specifically I work on the Spatially Varying Gene detection problem as well as gene network discovery in SRT datasets. I am collaborating with Rajarshi Guhaniyogi, Yang Ni and Bani K. Mallick on this work."
+    "text": "Spatial Transcriptomics\nSpatial transcriptomics combines gene expression data with spatial information to study tissue heterogeneity. I am currently working on a range of projects focusing on novel Bayesian methodology for detection of spatially varying genes as well as gene network discovery in SRT datasets. I am collaborating with Rajarshi Guhaniyogi, Yang Ni and Bani K. Mallick on this work.\n\nDetection of Spatial Gene Expression Patterns via Bayesian Spatial Regression in Spatially Resolved Transcriptomics Studies: Dey, P., Guhaniyogi, R., Ni, Y., & Mallick, B. K. (Submitted to Journal of American Statistical Association)\nIdentification of Spatially Varying Gene Co-expression Networks in Spatially Resolved Transcriptomics: Dey, P., Guhaniyogi, R., Ni, Y., & Mallick, B. K. (Work in progress)"
   },
   {
     "objectID": "research.html#multi-omic-integration",
     "href": "research.html#multi-omic-integration",
     "title": "Research Interests",
     "section": "Multi-Omic Integration",
-    "text": "Multi-Omic Integration\nI am working on bioinformatics projects involving multi-omics data analysis at Chapkin lab. My work involves using multiple omics data for biomarker discovery."
+    "text": "Multi-Omic Integration\nMy current research also includes bioinformatics projects involving multi-omics data analysis at Dr. Robert Chapkin’s lab, specifically using multiple omics data for biomarker discovery. I have worked on bioinformatics pipelines for microbiome data using tools such as QIIME2 and PICRUSt2 as well as multi-omic integration using Sparse Canonical Correlation Analysis and a statistical framework for ranking omics datasets and their combinations in terms of discriminating between phenotypes or treatment groups.\n\nNoninvasive fecal multi-omic signatures discriminate the ability of the aryl hydrocarbon receptor to attenuate colon tumorigenesis in ApcS580/+;KrasG12D/+ mice: Ivanov, I., Mullens, D. M., Dey, P., Chung, H. C., Ni, Y., Ufondu, A., Yang, F., Woods, P., Safe, S.H., Jayaraman, A. & Chapkin, R. S. (Work in progress, to be submitted to Genome Biology)"
   },
   {
     "objectID": "research.html#variational-inference",
     "href": "research.html#variational-inference",
     "title": "Research Interests",
     "section": "Variational Inference",
-    "text": "Variational Inference\nI am currently working on a project to develop a variational inference framework for generalized linear models that encompases a wide variety of distributions, is computationally efficient and has provable theoretical guarantees. This is a joint work with Somjit Roy and Dr. Debdeep Pati."
+    "text": "Variational Inference\nAnother area of research I am currently pursuing is variational inference for generalized linear regression models. Specifically I am developing a framework for varaitional inference based on tangent lower bounds of the likelihood function for a large class of response distributions including Student’s t, Laplace and Binomial regressions. Our approach is computationally efficient, has provable theoretical guarantees and has important applications such as Bayesian Quantile Regression. This is a joint work with Somjit Roy and Dr. Debdeep Pati.\n\nTangent Approximation for Variational Inference in different Exponential Families: Roy, S., Dey. P, Pati, D. & Mallick, B. K. (Work in progress, to be submitted to ICML 2025)"
   },
   {
     "objectID": "research.html#brain-connectomics",
     "href": "research.html#brain-connectomics",
     "title": "Research Interests",
     "section": "Brain Connectomics",
-    "text": "Brain Connectomics\nBrain connectomics is the study of connections in the brain. In particular, structural connectomics is the study of physical connections in the brain. My PhD dissertation involved developing novel methods for outlier detection and modeling in the context of structural connectomes.\n\nOutlier Detection for Multi-Network Data: Dey, P., Zhang, Z., & Dunson, D. B. Bioinformatics(2022). Preprint: arXiv. Code: R and Python.\nFast Scalable Density Estimation for Continuous Structural Connectomics: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)\nHierarchical Muliple Density Estimation using Mondrian Processes: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)"
+    "text": "Brain Connectomics\nBrain connectomics is the study of connections in the brain. In particular, structural connectomics is the study of physical connections in the brain. My PhD dissertation involved developing novel methods for outlier detection and scalable modeling in the context of structural connectomes.\n\nOutlier Detection for Multi-Network Data: Dey, P., Zhang, Z., & Dunson, D. B. Bioinformatics(2022). Code: R and Python.\nFast Scalable Density Estimation for Continuous Structural Connectomics: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)\nHierarchical Muliple Density Estimation using Mondrian Processes: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)"
   },
   {
     "objectID": "research.html#other-projects",
     "href": "research.html#other-projects",
     "title": "Research Interests",
     "section": "Other projects",
-    "text": "Other projects\n\ndame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference: Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: arXiv (2021)"
+    "text": "Other projects\nMatching algorithms for causal inference often face scalability issues when handling large datasets. I collaborated with an interdisciplinary team to develop code for an efficient matching algorithm for categorical covariates, prioritizing computational scalability while maximizing matches across covariates.\n\ndame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference: Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: arXiv (2021)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pritam Dey",
     "section": "",
-    "text": "Hello! I’m Pritam Dey, a postdoctoral researcher passionate about transforming complex biological data into meaningful insights through Bayesian models and machine learning. My current work includes developing methods for spatial transcriptomics and multi-omics integration, as well as variational inference algorithms."
+    "text": "Hello! I’m Pritam Dey, a statistician specializing in developing innovative Bayesian methodologies to tackle complex challenges in high-dimensional data analysis. My research focuses on spatial transcriptomics, multi-omic integration, and neuroscience, with an emphasis on creating scalable, interpretable models that advance scientific discovery across disciplines."
+  },
+  {
+    "objectID": "research.html#symbolic-regression-trees",
+    "href": "research.html#symbolic-regression-trees",
+    "title": "Research Interests",
+    "section": "Symbolic Regression Trees",
+    "text": "Symbolic Regression Trees\nA fundamental data-analytic problem in materials science is the identification of meaningful descriptors as combinations of features and algebraic operators. We are developing a fully Bayesian model for symbolic regression by using trees to represent mathematical expressions. This is a joint work with Somjit Roy, Dr. Debdeep Pati and Bani K. Mallick.\n\nBayesian modeling of operator-induced descriptors using symbolic regression trees: Roy, S., Dey. P, Pati, D. & Mallick, B. K. (Work in progress)"
+  },
+  {
+    "objectID": "research.html#machine-learning-for-causal-inference",
+    "href": "research.html#machine-learning-for-causal-inference",
+    "title": "Research Interests",
+    "section": "Machine Learning for Causal Inference",
+    "text": "Machine Learning for Causal Inference\nMatching algorithms for causal inference often face scalability issues when handling large datasets. I collaborated with an interdisciplinary team to develop code for an efficient matching algorithm for categorical covariates, prioritizing computational scalability while maximizing matches across covariates.\n\ndame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference: Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: arXiv (2021)"
   }
 ]

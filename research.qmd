@@ -3,28 +3,43 @@ title: "Research Interests"
 bibliography: references.bib
 ---
 
-I am highly motivated to develop novel statistical methodology for complex structured data with great emphasis on real world application and computational performance. My current research projects as a postdoc include data analytic and methodological research on multi-omics data, spatial transtriptomics and variational inference. Previously, during my PhD, I worked on models for brain structural connectomes.
+I am highly motivated to develop novel statistical methodology for complex structured data with great emphasis on real world application and computational performance. My current research projects as a postdoc include data analytic and methodological research on multi-omics data, spatial transtriptomics and variational inference. Previously, during my PhD, I worked on models for brain structural connectomes. This is a brief description of my current and past research projects.
 
 ## Spatial Transcriptomics
 
-I am currently working on a range of projects focusing on novel Bayesian methodology for Spatially Resolved Transcriptomics (SRT) data, where gene expression is measured across different locations in a tissue sample. Specifically I work on the Spatially Varying Gene detection problem as well as gene network discovery in SRT datasets. I am collaborating with [Rajarshi Guhaniyogi](https://sites.google.com/view/rajguhaniyogi), [Yang Ni](https://web.stat.tamu.edu/~yni/ "Dr. Yang Ni") and [Bani K. Mallick](https://web.stat.tamu.edu/~bmallick/ "Dr. Bani Mallick") on this work.
+Spatial transcriptomics combines gene expression data with spatial information to study tissue heterogeneity. I am currently working on a range of projects focusing on novel Bayesian methodology for detection of spatially varying genes as well as gene network discovery in SRT datasets. I am collaborating with [Rajarshi Guhaniyogi](https://sites.google.com/view/rajguhaniyogi), [Yang Ni](https://web.stat.tamu.edu/~yni/ "Dr. Yang Ni") and [Bani K. Mallick](https://web.stat.tamu.edu/~bmallick/ "Dr. Bani Mallick") on this work.
+
+1.  *Detection of Spatial Gene Expression Patterns via Bayesian Spatial Regression in Spatially Resolved Transcriptomics Studies:* **Dey, P.**, Guhaniyogi, R., Ni, Y., & Mallick, B. K. (Submitted to *Journal of American Statistical Association*)
+2.  *Identification of Spatially Varying Gene Co-expression Networks in Spatially Resolved Transcriptomics:* **Dey, P.**, Guhaniyogi, R., Ni, Y., & Mallick, B. K. (Work in progress)
 
 ## Multi-Omic Integration
 
-I am working on bioinformatics projects involving multi-omics data analysis at [Chapkin lab](https://chapkinlab.tamu.edu/ "Chapkin Lab"). My work involves using multiple omics data for biomarker discovery.
+My current research also includes bioinformatics projects involving multi-omics data analysis at [Dr. Robert Chapkin's lab](https://chapkinlab.tamu.edu/ "Chapkin Lab"), specifically using multiple omics data for biomarker discovery. I have worked on bioinformatics pipelines for microbiome data using tools such as QIIME2 and PICRUSt2 as well as multi-omic integration using Sparse Canonical Correlation Analysis and a statistical framework for ranking omics datasets and their combinations in terms of discriminating between phenotypes or treatment groups.
+
+1.  *Noninvasive fecal multi-omic signatures discriminate the ability of the aryl hydrocarbon receptor to attenuate colon tumorigenesis in Apc^S580/+^;Kras^G12D/+^ mice:* Ivanov, I., Mullens, D. M., **Dey, P**., Chung, H. C., Ni, Y., Ufondu, A., Yang, F., Woods, P., Safe, S.H., Jayaraman, A. & Chapkin, R. S. (Work in progress, to be submitted to *Genome Biology*)
 
 ## Variational Inference
 
-I am currently working on a project to develop a variational inference framework for generalized linear models that encompases a wide variety of distributions, is computationally efficient and has provable theoretical guarantees. This is a joint work with [Somjit Roy](https://artsci.tamu.edu/statistics/contact/profiles/somjit-roy.html) and [Dr. Debdeep Pati](https://web.stat.tamu.edu/~debdeep/Home.html "Dr. Debdeep Pati").
+Another area of research I am currently pursuing is variational inference for generalized linear regression models. Specifically I am developing a framework for varaitional inference based on tangent lower bounds of the likelihood function for a large class of response distributions including Student's t, Laplace and Binomial regressions. Our approach is computationally efficient, has provable theoretical guarantees and has important applications such as Bayesian Quantile Regression. This is a joint work with [Somjit Roy](https://artsci.tamu.edu/statistics/contact/profiles/somjit-roy.html) and [Dr. Debdeep Pati](https://web.stat.tamu.edu/~debdeep/Home.html "Dr. Debdeep Pati").
+
+1.  *Tangent Approximation for Variational Inference in different Exponential Families:* Roy, S., **Dey. P**, Pati, D. & Mallick, B. K. (Work in progress, to be submitted to *ICML 2025*)
+
+## Symbolic Regression Trees
+
+A fundamental data-analytic problem in materials science is the identification of meaningful descriptors as combinations of features and algebraic operators. We are developing a fully Bayesian model for symbolic regression by using trees to represent mathematical expressions. This is a joint work with [Somjit Roy](https://artsci.tamu.edu/statistics/contact/profiles/somjit-roy.html), [Dr. Debdeep Pati](https://web.stat.tamu.edu/~debdeep/Home.html "Dr. Debdeep Pati") and [Bani K. Mallick](https://web.stat.tamu.edu/~bmallick/ "Dr. Bani Mallick").
+
+1.  *Bayesian modeling of operator-induced descriptors using symbolic regression trees:* Roy, S., **Dey. P**, Pati, D. & Mallick, B. K. (Work in progress)
 
 ## Brain Connectomics
 
-Brain connectomics is the study of connections in the brain. In particular, structural connectomics is the study of physical connections in the brain. My PhD dissertation involved developing novel methods for outlier detection and modeling in the context of structural connectomes.
+Brain connectomics is the study of connections in the brain. In particular, structural connectomics is the study of physical connections in the brain. My PhD dissertation involved developing novel methods for outlier detection and scalable modeling in the context of structural connectomes.
 
-1.  *Outlier Detection for Multi-Network Data:* Dey, P., Zhang, Z., & Dunson, D. B. [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac431)(2022). Preprint: [arXiv](https://arxiv.org/abs/2205.06398). Code: [R](https://github.com/pritamdey/ODIN-r) and [Python](https://github.com/pritamdey/ODIN-python).
-2.  *Fast Scalable Density Estimation for Continuous Structural Connectomics:* Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)
-3.  *Hierarchical Muliple Density Estimation using Mondrian Processes:* Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)
+1.  *Outlier Detection for Multi-Network Data:* **Dey, P.**, Zhang, Z., & Dunson, D. B. [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac431)(2022). Code: [R](https://github.com/pritamdey/ODIN-r) and [Python](https://github.com/pritamdey/ODIN-python).
+2.  *Fast Scalable Density Estimation for Continuous Structural Connectomics:* **Dey, P.**, Zhang, Z., & Dunson, D. B. (Work in progress)
+3.  *Hierarchical Muliple Density Estimation using Mondrian Processes:* **Dey, P.**, Zhang, Z., & Dunson, D. B. (Work in progress)
 
-## Other projects
+## Machine Learning for Causal Inference
 
-1.  *dame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference:* Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: [arXiv](https://arxiv.org/abs/2101.01867) (2021)
+Matching algorithms for causal inference often face scalability issues when handling large datasets. I collaborated with an interdisciplinary team to develop code for an efficient matching algorithm for categorical covariates, prioritizing computational scalability while maximizing matches across covariates.
+
+1.  *dame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference:* Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: [arXiv](https://arxiv.org/abs/2101.01867) (2021)
