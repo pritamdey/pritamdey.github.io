@@ -32,28 +32,7 @@
     "href": "research.html#variational-inference",
     "title": "Research Interests",
     "section": "Variational Inference",
-    "text": "Variational Inference\nAnother area of research I am currently pursuing is variational inference for generalized linear regression models. Specifically I am developing a framework for varaitional inference based on tangent lower bounds of the likelihood function for a large class of response distributions including Student’s t, Laplace and Binomial regressions. Our approach is computationally efficient, has provable theoretical guarantees and has important applications such as Bayesian Quantile Regression. This is a joint work with Somjit Roy and Dr. Debdeep Pati.\n\nTangent Approximation for Variational Inference in different Exponential Families: Roy, S., Dey. P, Pati, D. & Mallick, B. K. (Work in progress, to be submitted to ICML 2025)"
-  },
-  {
-    "objectID": "research.html#brain-connectomics",
-    "href": "research.html#brain-connectomics",
-    "title": "Research Interests",
-    "section": "Brain Connectomics",
-    "text": "Brain Connectomics\nBrain connectomics is the study of connections in the brain. In particular, structural connectomics is the study of physical connections in the brain. My PhD dissertation involved developing novel methods for outlier detection and scalable modeling in the context of structural connectomes.\n\nOutlier Detection for Multi-Network Data: Dey, P., Zhang, Z., & Dunson, D. B. Bioinformatics(2022). Code: R and Python.\nFast Scalable Density Estimation for Continuous Structural Connectomics: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)\nHierarchical Muliple Density Estimation using Mondrian Processes: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)"
-  },
-  {
-    "objectID": "research.html#other-projects",
-    "href": "research.html#other-projects",
-    "title": "Research Interests",
-    "section": "Other projects",
-    "text": "Other projects\nMatching algorithms for causal inference often face scalability issues when handling large datasets. I collaborated with an interdisciplinary team to develop code for an efficient matching algorithm for categorical covariates, prioritizing computational scalability while maximizing matches across covariates.\n\ndame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference: Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: arXiv (2021)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pritam Dey",
-    "section": "",
-    "text": "Hello! I’m Pritam Dey, a statistician specializing in developing innovative Bayesian methodologies to tackle complex challenges in high-dimensional data analysis. My research focuses on spatial transcriptomics, multi-omic integration, and neuroscience, with an emphasis on creating scalable, interpretable models that advance scientific discovery across disciplines."
+    "text": "Variational Inference\nAnother area of research I am currently pursuing is variational inference for generalized linear regression models. Specifically I am developing a framework for varaitional inference based on tangent lower bounds of the likelihood function for a large class of response distributions including Student’s t, Laplace and Binomial regressions. Our approach is computationally efficient, has provable theoretical guarantees and has important applications such as Bayesian Quantile Regression. This is a joint work with Somjit Roy and Dr. Debdeep Pati.\n\nTangent Approximation for Variational Inference in different Exponential Families: Roy, S., Dey. P, Pati, D. & Mallick, B. K. (Submitted, Under Review)"
   },
   {
     "objectID": "research.html#symbolic-regression-trees",
@@ -63,10 +42,24 @@
     "text": "Symbolic Regression Trees\nA fundamental data-analytic problem in materials science is the identification of meaningful descriptors as combinations of features and algebraic operators. We are developing a fully Bayesian model for symbolic regression by using trees to represent mathematical expressions. This is a joint work with Somjit Roy, Dr. Debdeep Pati and Bani K. Mallick.\n\nBayesian modeling of operator-induced descriptors using symbolic regression trees: Roy, S., Dey. P, Pati, D. & Mallick, B. K. (Work in progress)"
   },
   {
+    "objectID": "research.html#brain-connectomics",
+    "href": "research.html#brain-connectomics",
+    "title": "Research Interests",
+    "section": "Brain Connectomics",
+    "text": "Brain Connectomics\nBrain connectomics is the study of connections in the brain. In particular, structural connectomics is the study of physical connections in the brain. My PhD dissertation involved developing novel methods for outlier detection and scalable modeling in the context of structural connectomes.\n\nOutlier Detection for Multi-Network Data: Dey, P., Zhang, Z., & Dunson, D. B. Bioinformatics(2022). Code: R and Python.\nFast Scalable Density Estimation for Continuous Structural Connectomics: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)\nHierarchical Muliple Density Estimation using Mondrian Processes: Dey, P., Zhang, Z., & Dunson, D. B. (Work in progress)"
+  },
+  {
     "objectID": "research.html#machine-learning-for-causal-inference",
     "href": "research.html#machine-learning-for-causal-inference",
     "title": "Research Interests",
     "section": "Machine Learning for Causal Inference",
     "text": "Machine Learning for Causal Inference\nMatching algorithms for causal inference often face scalability issues when handling large datasets. I collaborated with an interdisciplinary team to develop code for an efficient matching algorithm for categorical covariates, prioritizing computational scalability while maximizing matches across covariates.\n\ndame-flame: A Python Library Providing Fast Interpretable Matching for Causal Inference: Gupta, N.R., Orlandi, V., Chang, C., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., & Volfovsky, A. Preprint: arXiv (2021)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pritam Dey",
+    "section": "",
+    "text": "Hello! I’m Pritam Dey, a statistician specializing in developing innovative Bayesian methodologies to tackle complex challenges in high-dimensional data analysis. My research focuses on spatial transcriptomics, multi-omic integration, and neuroscience, with an emphasis on creating scalable, interpretable models that advance scientific discovery across disciplines."
   }
 ]
