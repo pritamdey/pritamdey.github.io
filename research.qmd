@@ -22,7 +22,7 @@ My current research also includes bioinformatics projects involving multi-omics 
 
 Another area of research I am currently pursuing is variational inference for generalized linear regression models. Specifically I am developing a framework for varaitional inference based on tangent lower bounds of the likelihood function for a large class of response distributions including Student's t, Laplace and Binomial regressions. Our approach is computationally efficient, has provable theoretical guarantees and has important applications such as Bayesian Quantile Regression. This is a joint work with [Somjit Roy](https://artsci.tamu.edu/statistics/contact/profiles/somjit-roy.html) and [Dr. Debdeep Pati](https://web.stat.tamu.edu/~debdeep/Home.html "Dr. Debdeep Pati").
 
-1.  *Tangent Approximation for Variational Inference in different Exponential Families:* Roy, S., **Dey. P**, Pati, D. & Mallick, B. K. (Work in progress, to be submitted to *ICML 2025*)
+1.  *Tangent Approximation for Variational Inference in different Exponential Families:* Roy, S., **Dey. P**, Pati, D. & Mallick, B. K. (Submitted, Under Review)
 
 ## Symbolic Regression Trees
 
