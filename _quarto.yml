@@ -14,7 +14,7 @@ website:
         text: Bio
       - href: research.qmd
         text: Research
-      - href: CV.pdf
+      - href: 
         text: CV
     right:
       - icon: github
