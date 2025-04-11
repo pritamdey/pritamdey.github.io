@@ -32,7 +32,7 @@
     "href": "research.html#variational-inference",
     "title": "Research Interests",
     "section": "Variational Inference",
-    "text": "Variational Inference\nAnother area of research I am currently pursuing is variational inference for generalized linear regression models. Specifically I am developing a framework for varaitional inference based on tangent lower bounds of the likelihood function for a large class of response distributions including Student’s t, Laplace and Binomial regressions. Our approach is computationally efficient, has provable theoretical guarantees and has important applications such as Bayesian Quantile Regression. This is a joint work with Somjit Roy and Dr. Debdeep Pati.\n\nTangent Approximation for Variational Inference in different Exponential Families: Roy, S., Dey. P, Pati, D. & Mallick, B. K. (Submitted, Under Review)"
+    "text": "Variational Inference\nAnother area of research I am currently pursuing is variational inference for generalized linear regression models. Specifically I am developing a framework for varaitional inference based on tangent lower bounds of the likelihood function for a large class of response distributions including Student’s t, Laplace and Binomial regressions. Our approach is computationally efficient, has provable theoretical guarantees and has important applications such as Bayesian Quantile Regression. This is a joint work with Somjit Roy and Dr. Debdeep Pati.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods: Roy, S., Dey. P, Pati, D. & Mallick, B. K. arXiv Preprint (2025)"
   },
   {
     "objectID": "research.html#symbolic-regression-trees",
