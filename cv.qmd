@@ -1,0 +1,26 @@
+---
+title: "Curriculum Vitae"
+---
+
+<div class="cv-header">
+
+<div class="cv-summary">
+
+## Pritam Dey
+Postdoctoral Researcher, Department of Statistics, Texas A&M University  
+
+My research focuses on Bayesian modeling, variational inference, and scientific machine learning, with applications in spatial transcriptomics, neuroimaging, and multi-omic data integration.
+
+</div>
+
+<div class="cv-buttons">
+[Download CV →](assets/cv.pdf){.btn .btn-primary}
+</div>
+
+</div>
+
+---
+
+<div class="cv-container">
+<iframe src="assets/cv.pdf"></iframe>
+</div>

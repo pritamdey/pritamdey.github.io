@@ -1,0 +1,52 @@
+---
+title: ""
+---
+
+::: {.columns .home-hero}
+::: {.column width="30%" .profile-col}
+![](assets/profile.jpg){.profile-img width=100%}
+:::
+
+::: {.column width="70%"}
+
+<div class="home-name">Pritam Dey</div>
+
+<div class="home-subtitle">
+Postdoctoral Researcher<br>
+Department of Statistics, Texas A&amp;M University
+</div>
+
+<div class="home-icons">
+  <a href="https://github.com/pritamdey" target="_blank" title="GitHub">
+    <i class="bi bi-github"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=R_NYzWsAAAAJ&hl=en" target="_blank" title="Google Scholar">
+    <i class="bi bi-mortarboard"></i>
+  </a>
+<a href="https://orcid.org/0000-0002-0323-4991" target="_blank" title="ORCID" class="orcid-link">
+<svg class="orcid-svg" viewBox="0 0 256 256" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128 256c70.7.0 128-57.3 128-128C256 57.3 198.7.0 128 0 57.3.0.0 57.3.0 128S57.3 256 128 256zM70.9 186.2H86.3V127.5 79.0999H70.9V186.2zm38-107.1001h41.6c39.6.0 57 28.3001 57 53.6001.0 27.5-21.5 53.6-56.8 53.6H108.9V79.0999zM124.3 172.4h24.5c34.9.0 42.9-26.5 42.9-39.7C191.7 111.2 178 93 148 93H124.3v79.4zM78.6 66.8999c5.60000000000001.0 10.1-4.6 10.1-10.1S84.2 46.7 78.6 46.7C73 46.7 68.5 51.2 68.5 56.7999c0 5.5 4.5 10.1 10.1 10.1z" fill="currentColor"></path>
+</svg>
+</a>
+  <a href="https://linkedin.com/in/pritamdey1906" target="_blank" title="LinkedIn">
+    <i class="bi bi-linkedin"></i>
+  </a>
+  <a href="mailto:pritam.dey@tamu.edu" title="Email">
+    <i class="bi bi-envelope"></i>
+  </a>
+</div>
+
+I develop Bayesian and computational methods for structured and high-dimensional data, with applications in scientific domains such as spatial transcriptomics and neuroimaging.
+
+<div style="margin-top: 10px;">
+[Explore Research →](research.qmd){.btn .btn-primary} &nbsp;&nbsp;
+[Download CV](assets/cv.pdf){.btn .btn-outline-primary}
+</div>
+:::
+:::
+
+<!-- ## News
+
+- Major revision in progress for **TAVIE-SSG** at JASA, Theory and Methods  
+- Major revision in progress for **AMO-GP** at Biometrics  
+- Ongoing work on symbolic regression via **VaSST** and **HierBOSSS** -->

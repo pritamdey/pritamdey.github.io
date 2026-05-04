@@ -1,0 +1,82 @@
+---
+title: "About"
+---
+
+I am a Postdoctoral Research Associate at Texas A&M University, working at the intersection of statistical methodology and scientific applications.
+<!-- 
+My research focuses on:
+
+- Bayesian modeling for structured and high-dimensional data
+- Variational inference for complex likelihoods
+- Symbolic regression and interpretable machine learning
+
+I work on applications in:
+
+- Spatial transcriptomics
+- Multi-omic data integration
+- Neuroscience and connectomics
+- Microbiome studies -->
+
+---
+
+## Work Experience
+
+**Postdoctoral Research Associate**  
+Texas A&M University (Sep 2023–Present)  
+
+- Bayesian modeling for spatial transcriptomics and microbiome data  
+- Collaboration with Statistics and Nutrition departments  
+
+**Graduate Research Assistant**  
+Duke University (2019–2024)  
+
+- Brain connectomics and network modeling  
+- Outlier detection in multi-network data  
+
+**Teaching Assistant**  
+Duke University (2019–2024)
+
+- Linear Models; Probability; Measure Theory; Machine Learning  
+
+---
+
+## Education
+
+- **PhD in Statistical Science**, Duke University (2023)  
+- **MS in Statistical Science**, Duke University (2023) 
+- **Master of Statistics**, ISI Kolkata (2018) 
+- **Bachelor of Mathematics**, ISI Bangalore (2016) 
+
+---
+
+## Technical Skills
+
+**Statistics:** Bayesian methods, MCMC, variational inference  
+**Programming:** R, Python, C/C++, MATLAB, SQL  
+**Bioinformatics:** QIIME2, PICRUSt2, edgeR  
+
+---
+
+## Talks
+
+### Invited Talks
+
+- IISA Annual Meeting, 2025
+- SETCASA Annual Meeting, 2026
+
+### Contributed Talks
+
+- Contributed talk at WNAR Conference (2022)  
+- Contributed Talk at Graduate Research Conference (2022)
+
+### Posters
+- TREC Annual Cancer Research Symposium (2025)
+- Statistical Methods in Imaging Conference (2021)
+
+---
+
+## Awards
+
+- Rank 1, CSIR NET (India)  
+- S.H. Aravind Gold Medal  
+- KVPY Scholarship  
