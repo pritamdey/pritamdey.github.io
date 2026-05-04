@@ -95,7 +95,7 @@
     "href": "research.html#causal-inference",
     "title": "Research",
     "section": "Machine Learning for Causal Inference",
-    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI"
+    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\n\n\n\nView Publications →"
   },
   {
     "objectID": "index.html",
