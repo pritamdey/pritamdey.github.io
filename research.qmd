@@ -109,3 +109,10 @@ I have worked on scalable matching-based methods for causal inference, with emph
 - **dame-flame: a Python package providing fast interpretable matching for causal inference**  
   Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.  
   *Journal of Statistical Software*, 2025. [DOI](https://doi.org/10.18637/jss.v113.i02)
+
+
+---
+
+<div style="margin-top: 30px; text-align: center;">
+[View Publications →](publications.qmd){.btn .btn-primary}
+</div>

@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Pritam Dey"
+  description: "Pritam Dey is a statistician working on Bayesian statistics, variational inference, spatial transcriptomics, neuroimaging, and symbolic regression."
+  site-url: "https://pritamdey.github.io"
   favicon: assets/favicon.png
   navbar:
     logo: assets/favicon.png
@@ -14,12 +16,12 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: publications.qmd
-        text: Publications
       - href: cv.qmd
         text: CV
       - href: contact.qmd
         text: Contact
+  page-footer:
+    center: "© 2026 Pritam Dey"
 
 format:
   html:
