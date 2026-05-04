@@ -1,0 +1,283 @@
+body {
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+.navbar {
+  font-size: 16px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+img {
+  border-radius: 10px;
+}
+
+/* Layout spacing */
+.grid {
+  margin-top: 10px;
+}
+
+.g-col-6 {
+  padding: 10px;
+}
+
+/* Homepage Header */
+
+.home-hero {
+  align-items: center;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  gap: 10px;
+}
+
+.profile-col {
+  padding-right: 25px;
+}
+
+.profile-img {
+  border-radius: 14px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.10);
+  transition: transform 0.2s ease;
+}
+
+.profile-img:hover {
+  transform: scale(1.03);
+}
+
+.home-name {
+  font-size: 2.4rem;
+  font-weight: 650;
+  margin-bottom: 0.35rem;
+}
+
+.home-subtitle {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 0.8rem;
+  line-height: 1.45;
+}
+
+.home-icons {
+  margin-bottom: 1.2rem;
+}
+
+.home-icons a {
+  font-size: 1.35rem;
+  margin-right: 1rem;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.home-icons a:hover {
+  color: #005293;
+}
+
+.navbar-brand img {
+  transition: transform 0.2s ease;
+}
+
+.navbar-brand img:hover {
+  transform: scale(1.05);
+}
+
+/* Research Cards */
+
+.research-card {
+  padding: 1.1rem;
+  margin-bottom: 1rem;
+  border-radius: 12px;
+  background: #f8f9fa;
+  border: 1px solid #e6e6e6;
+  font-size: 0.97rem;
+  color: #444;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+/* Hover */
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+}
+
+/* Icon */
+.research-card i {
+  font-size: 1.4rem;
+  color: #005293;
+  margin-bottom: 8px;
+  display: inline-block;
+}
+
+/* Title spacing */
+.research-card strong {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 1.05rem;
+}
+
+/* Link */
+.research-card a {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 0.92rem;
+  color: #005293;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.research-card a:hover {
+  text-decoration: underline;
+}
+
+
+.research-mini {
+  padding: 0.6rem 0.8rem;
+  border-radius: 10px;
+  background: #fafafa;
+  border: 1px solid #eee;
+  font-size: 0.95rem;
+}
+
+.research-mini i {
+  font-size: 1.2rem;
+  color: #005293;
+  margin-right: 6px;
+}
+
+.research-mini strong {
+  display: block;
+  margin-top: 4px;
+  font-size: 1rem;
+}
+
+.home-buttons {
+  margin-top: 14px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.home-buttons .btn {
+  font-size: 0.95rem;
+  padding: 6px 14px;
+}
+
+/* =========================
+   Research Intro + Word Cloud (Side-by-Side)
+========================= */
+
+/* Container spacing */
+.research-intro {
+  align-items: center;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  gap: 20px;
+}
+
+/* Left text column */
+.research-text {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Word cloud image */
+.research-wordcloud {
+  width: 100%;
+  max-width: 360px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 10px;
+  opacity: 0.95;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Subtle hover (optional but nice) */
+.research-wordcloud:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.10);
+}
+
+/* Make it responsive */
+@media (max-width: 768px) {
+  .research-intro {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .research-wordcloud {
+    max-width: 280px;
+    margin-top: 15px;
+  }
+}
+
+.research-text strong {
+  color: #005293;
+}
+
+.contact-block {
+  margin-top: 10px;
+  line-height: 2;
+}
+
+.contact-block i {
+  margin-right: 8px;
+  color: #005293;
+}
+
+/* =========================
+   CV Page Styling
+========================= */
+
+/* Header block */
+.cv-header {
+  margin-bottom: 1.5rem;
+}
+
+/* Buttons */
+.cv-buttons {
+  margin-bottom: 12px;
+}
+
+/* Summary */
+.cv-summary {
+  font-size: 1rem;
+  color: #444;
+  line-height: 1.6;
+}
+
+/* Center PDF container */
+.cv-container {
+  display: flex;
+  justify-content: center;
+}
+
+/* PDF iframe */
+.cv-container iframe {
+  width: 100%;
+  max-width: 900px;
+  height: 1000px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+
+.orcid-svg {
+  width: 1.35rem;
+  height: 1.35rem;
+  vertical-align: -0.18em;
+  transition: transform 0.15s ease, color 0.2s ease;
+}
+
+.home-icons a:hover .orcid-svg {
+  color: #005293;
+  transform: translateY(-2px);
+}
