@@ -209,13 +209,27 @@ img {
 /* Make it responsive */
 @media (max-width: 768px) {
   .research-intro {
-    flex-direction: column;
-    text-align: center;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+  }
+
+  .research-intro .column {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  .research-text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
   }
 
   .research-wordcloud {
-    max-width: 280px;
-    margin-top: 15px;
+    max-width: 320px;
+    width: 90%;
+    margin: 0 auto 1.5rem auto;
+    display: block;
   }
 }
 
