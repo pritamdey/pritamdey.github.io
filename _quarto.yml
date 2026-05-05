@@ -10,13 +10,13 @@ website:
   open-graph:
     title: "Pritam Dey"
     description: "Bayesian statistics, variational inference, spatial transcriptomics, neuroimaging, and symbolic regression."
-    image: assets/profile.jpg
+    image: assets/og-image.png
     site-name: "Pritam Dey"
 
   twitter-card:
     title: "Pritam Dey"
     description: "Bayesian statistics, variational inference, spatial transcriptomics, neuroimaging, and symbolic regression."
-    image: assets/profile.jpg
+    image: assets/og-image.png
     card-style: summary_large_image
 
   navbar:
