@@ -67,14 +67,14 @@
     "href": "research.html#variational-inference",
     "title": "Research",
     "section": "Variational Inference",
-    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA (Theory and Methods)."
+    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA (Theory and Methods). Code."
   },
   {
     "objectID": "research.html#symbolic-regression",
     "href": "research.html#symbolic-regression",
     "title": "Research",
     "section": "Symbolic Regression",
-    "text": "Symbolic Regression\nSymbolic regression aims to discover interpretable mathematical expressions directly from data. My work focuses on Bayesian and variational approaches for structured, uncertainty-aware symbolic learning.\n\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Submitted.\nHierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted."
+    "text": "Symbolic Regression\nSymbolic regression aims to discover interpretable mathematical expressions directly from data. My work focuses on Bayesian and variational approaches for structured, uncertainty-aware symbolic learning.\n\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Submitted. Code.\nHierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. Code."
   },
   {
     "objectID": "research.html#multi-omic",
@@ -88,14 +88,14 @@
     "href": "research.html#neuroimaging",
     "title": "Research",
     "section": "Neuroimaging",
-    "text": "Neuroimaging\nNeuroimaging data involves high dimensionality, multi-resolution structure, and complex interactions across modalities. My work develops scalable models for joint analysis of network and spatial imaging data.\n\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation."
+    "text": "Neuroimaging\nNeuroimaging data involves high dimensionality, multi-resolution structure, and complex interactions across modalities. My work develops scalable models for joint analysis of network and spatial imaging data.\n\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics. Code.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI. Code.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation."
   },
   {
     "objectID": "research.html#causal-inference",
     "href": "research.html#causal-inference",
     "title": "Research",
     "section": "Machine Learning for Causal Inference",
-    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\n\n\n\nView Publications →"
+    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI. Code.\n\n\n\nView Publications →"
   },
   {
     "objectID": "index.html",
