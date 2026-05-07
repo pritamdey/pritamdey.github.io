@@ -47,7 +47,7 @@ I develop scalable approximate Bayesian inference methods for complex likelihood
 
 - **A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods**  
   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
-  [arXiv preprint](https://doi.org/10.48550/arXiv.2504.05431). Major revision, JASA (Theory and Methods).  
+  [arXiv preprint](https://doi.org/10.48550/arXiv.2504.05431). Major revision, JASA (Theory and Methods).  [Code](https://github.com/Roy-SR-007/TAVIE-SSG).
 
 ---
 
@@ -57,11 +57,11 @@ Symbolic regression aims to discover interpretable mathematical expressions dire
 
 - **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**  
   Roy, S., **Dey, P.**, Mallick, B.K.  
-  [arXiv preprint](https://doi.org/10.48550/arXiv.2602.23561). Submitted.
+  [arXiv preprint](https://doi.org/10.48550/arXiv.2602.23561). Submitted. [Code](https://github.com/Roy-SR-007/VaSST).
 
 - **Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions**  
   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
-  [arXiv preprint](https://doi.org/10.48550/arXiv.2509.19710). Submitted.  
+  [arXiv preprint](https://doi.org/10.48550/arXiv.2509.19710). Submitted. [Code](https://github.com/Roy-SR-007/HierBOSSS).
   
 
 ---
@@ -86,11 +86,11 @@ Neuroimaging data involves high dimensionality, multi-resolution structure, and 
 
 - **Additive Nonparametric Regression with Spatial and Network Objects**  
   Guhaniyogi, R., **Dey, P.**, Chandra, K., Scheffler, A., Mallick, B.K.  
-  Major revision, Biometrics.
+  Major revision, Biometrics. [Code](https://github.com/pritamdey/AMOGP).
 
 - **Outlier detection for multi-network data**  
   **Dey, P.**, Zhang, Z., Dunson, D.B.  
-  *Bioinformatics*, 2022. [DOI](https://doi.org/10.1093/bioinformatics/btac431)
+  *Bioinformatics*, 2022. [DOI](https://doi.org/10.1093/bioinformatics/btac431). [Code](https://github.com/pritamdey/ODIN-python).
 
 - **Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes**  
   **Dey, P.**, Zhang, Z., Dunson, D.B.  
@@ -108,7 +108,7 @@ I have worked on scalable matching-based methods for causal inference, with emph
 
 - **dame-flame: a Python package providing fast interpretable matching for causal inference**  
   Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.  
-  *Journal of Statistical Software*, 2025. [DOI](https://doi.org/10.18637/jss.v113.i02)
+  *Journal of Statistical Software*, 2025. [DOI](https://doi.org/10.18637/jss.v113.i02). [Code](https://pypi.org/project/dame-flame/).
 
 
 ---
