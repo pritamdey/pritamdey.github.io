@@ -33,7 +33,7 @@ Spatial transcriptomics integrates gene expression with spatial information to s
 
 - **JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**  
   **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.  
-  [arXiv preprint](https://arxiv.org/abs/2604.18742). Submitted. 
+  [arXiv preprint](https://arxiv.org/abs/2604.18742). Submitted. [Code](https://github.com/pritamdey/pyJASPER).
 
 - **Joint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection**  
   **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.  

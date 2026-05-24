@@ -32,14 +32,14 @@
     "href": "publications.html#preprints-and-papers-under-review",
     "title": "Publications",
     "section": "Preprints and Papers Under Review",
-    "text": "Preprints and Papers Under Review\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA Theory and Methods. arXiv\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nHierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nSubmitted."
+    "text": "Preprints and Papers Under Review\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA Theory and Methods. arXiv\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nHierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. arXiv"
   },
   {
     "objectID": "publications.html#manuscripts-in-preparation",
     "href": "publications.html#manuscripts-in-preparation",
     "title": "Publications",
     "section": "Manuscripts in Preparation",
-    "text": "Manuscripts in Preparation\n\nJoint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nNoninvasive fecal multi-omic signatures for ApcS580/+/KrasG12D/+ mice\nIvanov, I., Mullens, D., Dey, P., Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.\nIn preparation.\nDiet shapes gut microbial function and indirectly influences host gene expression in infants\nDey, P., Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al.\nIn preparation."
+    "text": "Manuscripts in Preparation\n\nJoint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nSubmitted.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nNoninvasive fecal multi-omic signatures for ApcS580/+/KrasG12D/+ mice\nIvanov, I., Mullens, D., Dey, P., Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.\nIn preparation.\nDiet shapes gut microbial function and indirectly influences host gene expression in infants\nDey, P., Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al.\nIn preparation."
   },
   {
     "objectID": "contact.html",
@@ -60,21 +60,21 @@
     "href": "research.html#spatial-transcriptomics",
     "title": "Research",
     "section": "Spatial Transcriptomics",
-    "text": "Spatial Transcriptomics\nSpatial transcriptomics integrates gene expression with spatial information to study tissue organization and heterogeneity. My work focuses on Bayesian models for joint inference of spatial structure and gene-level variation.\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted.\nJoint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation."
+    "text": "Spatial Transcriptomics\nSpatial transcriptomics integrates gene expression with spatial information to study tissue organization and heterogeneity. My work focuses on Bayesian models for joint inference of spatial structure and gene-level variation.\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. Code.\nJoint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation."
   },
   {
     "objectID": "research.html#variational-inference",
     "href": "research.html#variational-inference",
     "title": "Research",
     "section": "Variational Inference",
-    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA (Theory and Methods)."
+    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA (Theory and Methods). Code."
   },
   {
     "objectID": "research.html#symbolic-regression",
     "href": "research.html#symbolic-regression",
     "title": "Research",
     "section": "Symbolic Regression",
-    "text": "Symbolic Regression\nSymbolic regression aims to discover interpretable mathematical expressions directly from data. My work focuses on Bayesian and variational approaches for structured, uncertainty-aware symbolic learning.\n\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Submitted.\nHierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted."
+    "text": "Symbolic Regression\nSymbolic regression aims to discover interpretable mathematical expressions directly from data. My work focuses on Bayesian and variational approaches for structured, uncertainty-aware symbolic learning.\n\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Submitted. Code.\nHierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. Code."
   },
   {
     "objectID": "research.html#multi-omic",
@@ -88,14 +88,14 @@
     "href": "research.html#neuroimaging",
     "title": "Research",
     "section": "Neuroimaging",
-    "text": "Neuroimaging\nNeuroimaging data involves high dimensionality, multi-resolution structure, and complex interactions across modalities. My work develops scalable models for joint analysis of network and spatial imaging data.\n\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation."
+    "text": "Neuroimaging\nNeuroimaging data involves high dimensionality, multi-resolution structure, and complex interactions across modalities. My work develops scalable models for joint analysis of network and spatial imaging data.\n\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics. Code.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI. Code.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation."
   },
   {
     "objectID": "research.html#causal-inference",
     "href": "research.html#causal-inference",
     "title": "Research",
     "section": "Machine Learning for Causal Inference",
-    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\n\n\n\nView Publications →"
+    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI. Code.\n\n\n\nView Publications →"
   },
   {
     "objectID": "index.html",

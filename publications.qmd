@@ -36,10 +36,6 @@ title: "Publications"
    Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
    *arXiv preprint*. Submitted. [arXiv](https://doi.org/10.48550/arXiv.2509.19710)
 
-6. **Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes**  
-   **Dey, P.**, Zhang, Z., Dunson, D.B.  
-   Submitted.
-
 ---
 
 ## Manuscripts in Preparation
@@ -47,15 +43,19 @@ title: "Publications"
 1. **Joint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection**  
    **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.  
    In preparation.
+   
+2. **Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes**  
+   **Dey, P.**, Zhang, Z., Dunson, D.B.  
+   Submitted.
 
-2. **Hierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data**  
+3. **Hierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data**  
    **Dey, P.**, Zhang, Z., Dunson, D.B.  
    In preparation.
 
-3. **Noninvasive fecal multi-omic signatures for Apc^S580/+^/Kras^G12D/+^ mice**  
+4. **Noninvasive fecal multi-omic signatures for Apc^S580/+^/Kras^G12D/+^ mice**  
    Ivanov, I., Mullens, D., **Dey, P.**, Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.  
    In preparation.
 
-4. **Diet shapes gut microbial function and indirectly influences host gene expression in infants**  
+5. **Diet shapes gut microbial function and indirectly influences host gene expression in infants**  
    **Dey, P.**, Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al.  
    In preparation.
