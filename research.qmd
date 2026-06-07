@@ -57,7 +57,7 @@ Symbolic regression aims to discover interpretable mathematical expressions dire
 
 - **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**  
   Roy, S., **Dey, P.**, Mallick, B.K.  
-  [arXiv preprint](https://doi.org/10.48550/arXiv.2602.23561). Submitted. [Code](https://github.com/Roy-SR-007/VaSST).
+  [arXiv preprint](https://doi.org/10.48550/arXiv.2602.23561). Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. [Code](https://github.com/Roy-SR-007/VaSST).
 
 - **Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions**  
   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  

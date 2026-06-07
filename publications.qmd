@@ -30,7 +30,7 @@ title: "Publications"
 
 4. **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**  
    Roy, S., **Dey, P.**, Mallick, B.K.  
-   *arXiv preprint*. Submitted. [arXiv](https://doi.org/10.48550/arXiv.2602.23561)
+   *arXiv preprint*. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. [arXiv](https://doi.org/10.48550/arXiv.2602.23561)
 
 5. **Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions**  
    Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
