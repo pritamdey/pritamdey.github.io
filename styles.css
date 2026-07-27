@@ -285,13 +285,12 @@ img {
 }
 
 .orcid-svg {
-  width: 1.35rem;
-  height: 1.35rem;
+  width: 1.33rem;
+  height: 1.33rem;
   vertical-align: -0.18em;
   transition: transform 0.15s ease, color 0.2s ease;
 }
 
 .home-icons a:hover .orcid-svg {
   color: #005293;
-  transform: translateY(-2px);
 }
