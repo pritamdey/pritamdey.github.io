@@ -32,7 +32,7 @@ title: "Publications"
    Roy, S., **Dey, P.**, Mallick, B.K.  
    *arXiv preprint*. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. [arXiv](https://doi.org/10.48550/arXiv.2602.23561)
 
-5. **Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions**  
+5. **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**  
    Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
    *arXiv preprint*. Submitted. [arXiv](https://doi.org/10.48550/arXiv.2509.19710)
 

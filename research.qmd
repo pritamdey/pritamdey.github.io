@@ -59,7 +59,7 @@ Symbolic regression aims to discover interpretable mathematical expressions dire
   Roy, S., **Dey, P.**, Mallick, B.K.  
   [arXiv preprint](https://doi.org/10.48550/arXiv.2602.23561). Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. [Code](https://github.com/ProbabilisticSR/VaSST).
 
-- **Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions**  
+- **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**  
   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
   [arXiv preprint](https://doi.org/10.48550/arXiv.2509.19710). Submitted. [Code](https://github.com/ProbabilisticSR/BayeSymX).
   
