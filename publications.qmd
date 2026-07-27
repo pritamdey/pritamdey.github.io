@@ -2,13 +2,17 @@
 title: "Publications"
 ---
 
-## Published Papers
+## Published and Accepted Papers
 
-1. **dame-flame: a Python package providing fast interpretable matching for causal inference**  
+3. **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**  
+   Roy, S., **Dey, P.**, Mallick, B.K.  
+   *arXiv preprint*. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. [arXiv](https://doi.org/10.48550/arXiv.2602.23561)
+
+2. **dame-flame: a Python package providing fast interpretable matching for causal inference**  
    Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.  
    *Journal of Statistical Software*, 2025. [DOI](https://doi.org/10.18637/jss.v113.i02)
 
-2. **Outlier detection for multi-network data**  
+1. **Outlier detection for multi-network data**  
    **Dey, P.**, Zhang, Z., Dunson, D.B.  
    *Bioinformatics*, 2022. [DOI](https://doi.org/10.1093/bioinformatics/btac431)
 
@@ -28,11 +32,7 @@ title: "Publications"
    Guhaniyogi, R., **Dey, P.**, Chandra, K., Scheffler, A., Mallick, B.K.  
    Major revision, Biometrics.
 
-4. **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**  
-   Roy, S., **Dey, P.**, Mallick, B.K.  
-   *arXiv preprint*. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. [arXiv](https://doi.org/10.48550/arXiv.2602.23561)
-
-5. **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**  
+4. **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**  
    Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
    *arXiv preprint*. Submitted. [arXiv](https://doi.org/10.48550/arXiv.2509.19710)
 
