@@ -18,21 +18,21 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "dame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI"
+    "text": "VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. arXiv\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI"
   },
   {
-    "objectID": "publications.html#published-papers",
-    "href": "publications.html#published-papers",
+    "objectID": "publications.html#published-and-accepted-papers",
+    "href": "publications.html#published-and-accepted-papers",
     "title": "Publications",
     "section": "",
-    "text": "dame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI"
+    "text": "VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. arXiv\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI"
   },
   {
     "objectID": "publications.html#preprints-and-papers-under-review",
     "href": "publications.html#preprints-and-papers-under-review",
     "title": "Publications",
     "section": "Preprints and Papers Under Review",
-    "text": "Preprints and Papers Under Review\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA Theory and Methods. arXiv\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\narXiv preprint. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. arXiv\nProbabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. arXiv"
+    "text": "Preprints and Papers Under Review\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Major revision, JASA Theory and Methods. arXiv\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics.\nProbabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. arXiv"
   },
   {
     "objectID": "publications.html#manuscripts-in-preparation",
