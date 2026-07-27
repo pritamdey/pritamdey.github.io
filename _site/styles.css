@@ -91,7 +91,7 @@ img {
 
 /* Research Cards */
 
-.research-card {
+.software-card {
   padding: 1.1rem;
   margin-bottom: 1rem;
   border-radius: 12px;
@@ -103,13 +103,13 @@ img {
 }
 
 /* Hover */
-.research-card:hover {
+.software-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
 }
 
 /* Icon */
-.research-card i {
+.software-card i {
   font-size: 1.4rem;
   color: #005293;
   margin-bottom: 8px;
@@ -117,14 +117,13 @@ img {
 }
 
 /* Title spacing */
-.research-card strong {
-  display: block;
+.software-card strong {
   margin-bottom: 4px;
   font-size: 1.05rem;
 }
 
 /* Link */
-.research-card a {
+.software-card a {
   display: inline-block;
   margin-top: 10px;
   font-size: 0.92rem;
@@ -133,7 +132,7 @@ img {
   font-weight: 500;
 }
 
-.research-card a:hover {
+.software-card a:hover {
   text-decoration: underline;
 }
 

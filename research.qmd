@@ -114,5 +114,5 @@ I have worked on scalable matching-based methods for causal inference, with emph
 ---
 
 <div style="margin-top: 30px; text-align: center;">
-[View Publications →](publications.qmd){.btn .btn-primary}
+[View all Publications at a glance →](publications.qmd){.btn .btn-primary}
 </div>

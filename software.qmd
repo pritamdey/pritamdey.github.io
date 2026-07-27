@@ -1,0 +1,89 @@
+---
+title: "Software Implementations"
+---
+
+I develop and maintain software implementations (mainly in **`Python`** and **`R`** ) accompanying my research on Bayesian modeling, scalable inference, scientific machine learning, and the analysis of structured data.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**pyJASPER**
+
+**`Python`** implementation of **JASPER**, a spatial basis function based count-regression framework for joint Bayesian analysis of spatial expression, for detecting spatially variable genes.
+
+[GitHub](https://github.com/pritamdey/pyJASPER) · [Preprint](https://arxiv.org/abs/2604.18742)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**VaSST**
+
+**`Python`** implementation of **VaSST**, a variational inference method for symbolic regression using soft symbolic trees, designed for interpretable and uncertainty-aware equation discovery.
+
+[GitHub](https://github.com/ProbabilisticSR/VaSST) · [Preprint](https://doi.org/10.48550/arXiv.2602.23561)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**BayeSymX**
+
+**`Python`** implementation of **BayeSym$\mathbb{X}$**, a probabilistic symbolic regression method using operator-induced and regularized symbolic forests for scientific equation discovery.
+
+[GitHub](https://github.com/ProbabilisticSR/BayeSymX) · [Preprint](https://doi.org/10.48550/arXiv.2509.19710)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**TAVIE-SSG**
+
+**`Python`** implementation of **TAVIE-SSG**, a scalable generalized tangent approximation based variational inference framework for strongly super-Gaussian likelihoods.
+
+[GitHub](https://github.com/Roy-SR-007/TAVIE-SSG) · [Preprint](https://doi.org/10.48550/arXiv.2504.05431)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**AMOGP**
+
+**`R`** implementation of **AMO-GP**, an additive nonparametric regression method with spatial and network-valued predictors, motivated by neuroimaging applications.
+
+[GitHub](https://github.com/pritamdey/AMOGP)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**dame-flame**
+
+**`Python`** package for **DAME** and **FLAME**: a family of fast and interpretable almost-matching-exactly methods for scalable and efficient causal inference.
+
+[PyPI](https://pypi.org/project/dame-flame/) · [Paper](https://doi.org/10.18637/jss.v113.i02)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**ODIN-python**
+
+**`Python`** implementation of **ODIN**, an outlier-detection method for populations of network-valued observations, motivated by applications in structural connectomics.
+
+[GitHub](https://github.com/pritamdey/ODIN-python) · [Paper](https://doi.org/10.1093/bioinformatics/btac431)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.software-card}
+**ODIN-R**
+
+**`R`** implementation of **ODIN**, an outlier-detection method for populations of network-valued observations, motivated by applications in structural connectomics.
+
+[GitHub](https://github.com/pritamdey/ODIN-R) · [Paper](https://doi.org/10.1093/bioinformatics/btac431)
+:::
+:::
+
+:::
