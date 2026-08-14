@@ -14,7 +14,7 @@ metadata:
 <div class="home-name">Pritam Dey</div>
 
 <div class="home-subtitle">
-Postdoctoral Researcher<br>
+Visiting Assistant Professor<br>
 Department of Statistics, Texas A&amp;M University
 </div>
 
@@ -47,8 +47,9 @@ I develop Bayesian and computational methods for structured and high-dimensional
 :::
 :::
 
-<!-- ## News
+## News
 
-- Major revision in progress for **TAVIE-SSG** at JASA, Theory and Methods  
-- Major revision in progress for **AMO-GP** at Biometrics  
-- Ongoing work on symbolic regression via **VaSST** and **HierBOSSS** -->
+- Minor revision in progress for [**TAVIE-SSG**](https://doi.org/10.48550/arXiv.2504.05431) at JASA, Theory and Methods.
+- Talk at JSM 2026 on [**TAVIE-SSG**](https://doi.org/10.48550/arXiv.2504.05431).
+- Started as Visiting Assistant Professor at Department of Statistics, Texas A&M University.
+- [**VaSST**](https://proceedings.mlr.press/v337/roy26a.html) accepted at UAI 2026.

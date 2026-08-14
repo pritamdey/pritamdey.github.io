@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am a Postdoctoral Research Associate at Texas A&M University, working at the intersection of statistical methodology and scientific applications.
+I am a Visiting Assistant Professor at Texas A&M University, working at the intersection of statistical methodology and scientific applications.
 <!-- 
 My research focuses on:
 
@@ -21,8 +21,14 @@ I work on applications in:
 
 ## Work Experience
 
+**Visiting Assistant Professor**  
+Texas A&M University (Aug 2026–Present)  
+
+- Bayesian modeling for spatial transcriptomics data  
+- Teaching Graduate-level courses in Statistics and Data Science
+
 **Postdoctoral Research Associate**  
-Texas A&M University (Sep 2023–Present)  
+Texas A&M University (Sep 2023–July 2026)  
 
 - Bayesian modeling for spatial transcriptomics and microbiome data  
 - Collaboration with Statistics and Nutrition departments  
@@ -66,8 +72,9 @@ Duke University (2019–2024)
 
 ### Contributed Talks
 
-- Contributed talk at WNAR Conference (2022)  
-- Contributed Talk at Graduate Research Conference (2022)
+- Joint Statistical Meetings (2026)
+- WNAR Conference (2022)  
+- Graduate Research Conference (2022)
 
 ### Posters
 - TREC Annual Cancer Research Symposium (2025)
