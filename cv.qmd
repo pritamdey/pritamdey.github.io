@@ -7,7 +7,7 @@ title: "Curriculum Vitae"
 <div class="cv-summary">
 
 ## Pritam Dey
-Postdoctoral Researcher, Department of Statistics, Texas A&M University  
+Visiting Assistant Professor, Department of Statistics, Texas A&M University  
 
 My research focuses on Bayesian modeling, variational inference, and scientific machine learning, with applications in spatial transcriptomics, neuroimaging, and multi-omic data integration.
 

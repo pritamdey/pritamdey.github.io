@@ -41,8 +41,8 @@ Department of Statistics, Texas A&amp;M University
 I develop Bayesian and computational methods for structured and high-dimensional data, with applications in scientific domains such as spatial transcriptomics and neuroimaging.
 
 <div style="margin-top: 10px;">
-[Explore Research →](research.qmd){.btn .btn-primary} &nbsp;&nbsp;
-[Download CV](assets/cv.pdf){.btn .btn-outline-primary}
+[Explore My Research →](research.qmd){.btn .btn-primary} &nbsp;&nbsp;
+<!-- [Download CV](assets/cv.pdf){.btn .btn-outline-primary} -->
 </div>
 :::
 :::
