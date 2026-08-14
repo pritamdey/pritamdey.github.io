@@ -22,17 +22,17 @@ I develop and maintain software implementations (mainly in **`Python`** and **`R
 
 **`Python`** implementation of **VaSST**, a variational inference method for symbolic regression using soft symbolic trees, designed for interpretable and uncertainty-aware equation discovery.
 
-[GitHub](https://github.com/ProbabilisticSR/VaSST) · [Preprint](https://doi.org/10.48550/arXiv.2602.23561)
+[GitHub](https://github.com/ProbabilisticSR/VaSST) · [Paper](https://proceedings.mlr.press/v337/roy26a.html)
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.software-card}
-**BayeSymX**
+**HierBOSSS**
 
-**`Python`** implementation of **BayeSym$\mathbb{X}$**, a probabilistic symbolic regression method using operator-induced and regularized symbolic forests for scientific equation discovery.
+**`Python`** implementation of **HierBOSSS**, a hierarchical Bayesian symbolic regression method using operator-induced and regularized symbolic forests for scientific equation discovery.
 
-[GitHub](https://github.com/ProbabilisticSR/BayeSymX) · [Preprint](https://doi.org/10.48550/arXiv.2509.19710)
+[GitHub](https://github.com/ProbabilisticSR/HierBOSSS) · [Preprint](https://doi.org/10.48550/arXiv.2509.19710)
 :::
 :::
 

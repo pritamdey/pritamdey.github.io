@@ -6,7 +6,7 @@ title: "Publications"
 
 3. **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**  
    Roy, S., **Dey, P.**, Mallick, B.K.  
-   *arXiv preprint*. Accepted at Uncertainty in Artificial Intelligence (UAI) 2026. [arXiv](https://doi.org/10.48550/arXiv.2602.23561)
+   *Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence*, 2026. [PMLR](https://proceedings.mlr.press/v337/roy26a.html). [Code](https://github.com/Roy-SR-007/VaSST).
 
 2. **dame-flame: a Python package providing fast interpretable matching for causal inference**  
    Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.  
@@ -22,7 +22,7 @@ title: "Publications"
 
 1. **A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods**  
    Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
-   *arXiv preprint*. Major revision, JASA Theory and Methods. [arXiv](https://doi.org/10.48550/arXiv.2504.05431)
+   *arXiv preprint*. Minor revision, JASA Theory and Methods. [arXiv](https://doi.org/10.48550/arXiv.2504.05431)
 
 2. **JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**  
    **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.  
