@@ -18,14 +18,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a Postdoctoral Research Associate at Texas A&M University, working at the intersection of statistical methodology and scientific applications."
+    "text": "I am a Visiting Assistant Professor at Texas A&M University, working at the intersection of statistical methodology and scientific applications."
   },
   {
     "objectID": "about.html#work-experience",
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience",
-    "text": "Work Experience\nPostdoctoral Research Associate\nTexas A&M University (Sep 2023–Present)\n\nBayesian modeling for spatial transcriptomics and microbiome data\n\nCollaboration with Statistics and Nutrition departments\n\nGraduate Research Assistant\nDuke University (2019–2024)\n\nBrain connectomics and network modeling\n\nOutlier detection in multi-network data\n\nTeaching Assistant\nDuke University (2019–2024)\n\nLinear Models; Probability; Measure Theory; Machine Learning"
+    "text": "Work Experience\nVisiting Assistant Professor\nTexas A&M University (Aug 2026–Present)\n\nBayesian modeling for spatial transcriptomics data\n\nTeaching Graduate-level courses in Statistics and Data Science\n\nPostdoctoral Research Associate\nTexas A&M University (Sep 2023–July 2026)\n\nBayesian modeling for spatial transcriptomics and microbiome data\n\nCollaboration with Statistics and Nutrition departments\n\nGraduate Research Assistant\nDuke University (2019–2024)\n\nBrain connectomics and network modeling\n\nOutlier detection in multi-network data\n\nTeaching Assistant\nDuke University (2019–2024)\n\nLinear Models; Probability; Measure Theory; Machine Learning"
   },
   {
     "objectID": "about.html#education",
@@ -46,7 +46,7 @@
     "href": "about.html#talks",
     "title": "About",
     "section": "Talks",
-    "text": "Talks\n\nInvited Talks\n\nIISA Annual Meeting, 2025\nSETCASA Annual Meeting, 2026\n\n\n\nContributed Talks\n\nContributed talk at WNAR Conference (2022)\n\nContributed Talk at Graduate Research Conference (2022)\n\n\n\nPosters\n\nTREC Annual Cancer Research Symposium (2025)\nStatistical Methods in Imaging Conference (2021)"
+    "text": "Talks\n\nInvited Talks\n\nIISA Annual Meeting, 2025\nSETCASA Annual Meeting, 2026\n\n\n\nContributed Talks\n\nJoint Statistical Meetings (2026)\nWNAR Conference (2022)\n\nGraduate Research Conference (2022)\n\n\n\nPosters\n\nTREC Annual Cancer Research Symposium (2025)\nStatistical Methods in Imaging Conference (2021)"
   },
   {
     "objectID": "about.html#awards",
@@ -60,7 +60,14 @@
     "href": "index.html",
     "title": "Pritam Dey",
     "section": "",
-    "text": "Pritam Dey\n\n\nPostdoctoral Researcher Department of Statistics, Texas A&M University\n\n\n                \n\nI develop Bayesian and computational methods for structured and high-dimensional data, with applications in scientific domains such as spatial transcriptomics and neuroimaging.\n\nExplore Research →    Download CV"
+    "text": "Pritam Dey\n\n\nVisiting Assistant Professor Department of Statistics, Texas A&M University\n\n\n                \n\nI develop Bayesian and computational methods for structured and high-dimensional data, with applications in scientific domains such as spatial transcriptomics and neuroimaging.\n\nExplore Research →    Download CV"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Pritam Dey",
+    "section": "News",
+    "text": "News\n\nMinor revision in progress for TAVIE-SSG at JASA, Theory and Methods.\nTalk at JSM 2026 on TAVIE-SSG.\nStarted as Visiting Assistant Professor at Department of Statistics, Texas A&M University.\nVaSST accepted at UAI 2026."
   },
   {
     "objectID": "research.html",
