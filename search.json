@@ -25,7 +25,7 @@
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience",
-    "text": "Work Experience\nVisiting Assistant Professor\nTexas A&M University (Aug 2026–Present)\n\nBayesian modeling for spatial transcriptomics data\n\nTeaching Graduate-level courses in Statistics and Data Science\n\nPostdoctoral Research Associate\nTexas A&M University (Sep 2023–July 2026)\n\nBayesian modeling for spatial transcriptomics and microbiome data\n\nCollaboration with Statistics and Nutrition departments\n\nGraduate Research Assistant\nDuke University (2019–2024)\n\nBrain connectomics and network modeling\n\nOutlier detection in multi-network data\n\nTeaching Assistant\nDuke University (2019–2024)\n\nLinear Models; Probability; Measure Theory; Machine Learning"
+    "text": "Work Experience\nVisiting Assistant Professor\nTexas A&M University (Aug 2026–Present)\n\nBayesian modeling for spatial transcriptomics data\n\nTeaching Graduate-level courses in Statistics and Data Science\n\nPostdoctoral Research Associate\nTexas A&M University (Sep 2023–Aug 2026)\n\nBayesian modeling for spatial transcriptomics and microbiome data\n\nCollaboration with Statistics and Nutrition departments\n\nGraduate Research Assistant\nDuke University (2019–2023)\n\nBrain connectomics and network modeling\n\nOutlier detection in multi-network data\n\nTeaching Assistant\nDuke University (2019–2023)\n\nLinear Models; Probability; Probability and Measure Theory; Predictive Modelling and Statistical Learning; Probabilistic Machine Learning"
   },
   {
     "objectID": "about.html#education",
@@ -46,7 +46,7 @@
     "href": "about.html#talks",
     "title": "About",
     "section": "Talks",
-    "text": "Talks\n\nInvited Talks\n\nIISA Annual Meeting, 2025\nSETCASA Annual Meeting, 2026\n\n\n\nContributed Talks\n\nJoint Statistical Meetings (2026)\nWNAR Conference (2022)\n\nGraduate Research Conference (2022)\n\n\n\nPosters\n\nTREC Annual Cancer Research Symposium (2025)\nStatistical Methods in Imaging Conference (2021)"
+    "text": "Talks\n\nInvited Talks\n\nIISA Conference (2025)\nSETCASA Annual Meeting (2026)\n\n\n\nContributed Talks\n\nJoint Statistical Meetings (2026)\nWNAR Conference (2022)\nNISS 2nd Annual Graduate Student Research Conference (2022)\n\n\n\nPosters\n\nTREC Annual Cancer Research Symposium (2025)\nStatistical Methods in Imaging Conference (2021)"
   },
   {
     "objectID": "about.html#awards",
@@ -67,7 +67,7 @@
     "href": "index.html#news",
     "title": "Pritam Dey",
     "section": "News",
-    "text": "News\n\nMinor revision in progress for TAVIE-SSG at JASA, Theory and Methods.\nTalk at JSM 2026 on TAVIE-SSG.\nStarted as Visiting Assistant Professor at Department of Statistics, Texas A&M University.\nVaSST accepted at UAI 2026."
+    "text": "News\n\nTAVIE-SSG accepted at JASA (Theory and Methods).\nTalk at JSM 2026 on TAVIE-SSG.\nStarted as Visiting Assistant Professor at Department of Statistics, Texas A&M University.\nVaSST accepted at UAI 2026."
   },
   {
     "objectID": "research.html",
@@ -81,14 +81,14 @@
     "href": "research.html#spatial-transcriptomics",
     "title": "Research",
     "section": "Spatial Transcriptomics",
-    "text": "Spatial Transcriptomics\nSpatial transcriptomics integrates gene expression with spatial information to study tissue organization and heterogeneity. My work focuses on Bayesian models for joint inference of spatial structure and gene-level variation.\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. Code.\nJoint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation."
+    "text": "Spatial Transcriptomics\nSpatial transcriptomics integrates gene expression with spatial information to study tissue organization and heterogeneity. My work focuses on Bayesian models for joint inference of spatial structure and gene-level variation.\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. Code.\nJoint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation."
   },
   {
     "objectID": "research.html#variational-inference",
     "href": "research.html#variational-inference",
     "title": "Research",
     "section": "Variational Inference",
-    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Minor revision, JASA (Theory and Methods). Code."
+    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\nJournal of the American Statistical Association (Theory and Methods), 2026. DOI. Code."
   },
   {
     "objectID": "research.html#symbolic-regression",
@@ -109,55 +109,55 @@
     "href": "research.html#neuroimaging",
     "title": "Research",
     "section": "Neuroimaging",
-    "text": "Neuroimaging\nNeuroimaging data involves high dimensionality, multi-resolution structure, and complex interactions across modalities. My work develops scalable models for joint analysis of network and spatial imaging data.\n\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics. Code.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI. Code.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation."
+    "text": "Neuroimaging\nNeuroimaging data involves high dimensionality, multi-resolution structure, and complex interactions across modalities. My work develops scalable models for joint analysis of network and spatial imaging data.\n\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMinor revision, Biometrics. arXiv preprint. Code.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI. Code.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation."
   },
   {
     "objectID": "research.html#causal-inference",
     "href": "research.html#causal-inference",
     "title": "Research",
     "section": "Machine Learning for Causal Inference",
-    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI. Code.\n\n\n\nView all Publications at a glance →"
+    "text": "Machine Learning for Causal Inference\nI have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.\n\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI. PyPI.\n\n\n\nView all Publications at a glance →"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I am always happy to discuss research, collaborations, or academic opportunities.\n\n\n\n pritam.dey@tamu.edu\n\n\n Department of Statistics, Texas A&M University, College Station, TX\n\n\n Office: Blocker Building, Room 401A\n\n\n GitHub\n\n\n Google Scholar\n\n\n LinkedIn"
+    "text": "I am always happy to discuss research, collaborations, or academic opportunities.\n\n\n\n pritam.dey@tamu.edu\n\n\n Department of Statistics, Texas A&M University, College Station, TX\n\n\n Office: Blocker Building, Room 401A\n\n\n GitHub\n\n\n Google Scholar\n\n\n LinkedIn\n\n\n ORCID"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\nProceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR. Code.\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI"
+    "text": "A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods Roy, S., Dey, P., Pati, D., Mallick, B.K. Journal of the American Statistical Association (Theory and Methods), 2026. DOI.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees Roy, S., Dey, P., Mallick, B.K. Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR.\ndame-flame: a Python package providing fast interpretable matching for causal inference Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A. Journal of Statistical Software, 2025. DOI.\nOutlier detection for multi-network data Dey, P., Zhang, Z., Dunson, D.B. Bioinformatics, 2022. DOI."
   },
   {
     "objectID": "publications.html#published-and-accepted-papers",
     "href": "publications.html#published-and-accepted-papers",
     "title": "Publications",
     "section": "",
-    "text": "VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\nProceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR. Code.\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI"
+    "text": "A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods Roy, S., Dey, P., Pati, D., Mallick, B.K. Journal of the American Statistical Association (Theory and Methods), 2026. DOI.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees Roy, S., Dey, P., Mallick, B.K. Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR.\ndame-flame: a Python package providing fast interpretable matching for causal inference Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A. Journal of Statistical Software, 2025. DOI.\nOutlier detection for multi-network data Dey, P., Zhang, Z., Dunson, D.B. Bioinformatics, 2022. DOI."
   },
   {
     "objectID": "publications.html#preprints-and-papers-under-review",
     "href": "publications.html#preprints-and-papers-under-review",
     "title": "Publications",
     "section": "Preprints and Papers Under Review",
-    "text": "Preprints and Papers Under Review\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Minor revision, JASA Theory and Methods. arXiv\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. arXiv\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\nMajor revision, Biometrics.\nProbabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. arXiv"
+    "text": "Preprints and Papers Under Review\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression Dey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K. arXiv preprint. Submitted. arXiv.\nAdditive Nonparametric Regression with Spatial and Network Objects Guhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K. arXiv preprint. Minor revision, Biometrics. arXiv.\nProbabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests Roy, S., Dey, P., Pati, D., Mallick, B.K. arXiv preprint. Submitted. arXiv."
   },
   {
     "objectID": "publications.html#manuscripts-in-preparation",
     "href": "publications.html#manuscripts-in-preparation",
     "title": "Publications",
     "section": "Manuscripts in Preparation",
-    "text": "Manuscripts in Preparation\n\nJoint Integrative Spatial Transcriptomics via Bayesian Modeling for Domain Recovery and Spatially Variable Gene Selection\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nSubmitted.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nIn preparation.\nNoninvasive fecal multi-omic signatures for ApcS580/+/KrasG12D/+ mice\nIvanov, I., Mullens, D., Dey, P., Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.\nIn preparation.\nDiet shapes gut microbial function and indirectly influences host gene expression in infants\nDey, P., Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al.\nIn preparation."
+    "text": "Manuscripts in Preparation\n\nJoint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology Dey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes Dey, P., Zhang, Z., Dunson, D.B.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data Dey, P., Zhang, Z., Dunson, D.B.\nNoninvasive fecal multi-omic signatures for ApcS580/+/KrasG12D/+ mice Ivanov, I., Mullens, D., Dey, P., Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.\nDiet shapes gut microbial function and indirectly influences host gene expression in infants Dey, P., Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al."
   },
   {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Software Implementations",
     "section": "",
-    "text": "I develop and maintain software implementations (mainly in Python and R ) accompanying my research on Bayesian modeling, scalable inference, scientific machine learning, and the analysis of structured data.\n\n\n\npyJASPER\nPython implementation of JASPER, a spatial basis function based count-regression framework for joint Bayesian analysis of spatial expression, for detecting spatially variable genes.\nGitHub · Preprint\n\n\n\n\nVaSST\nPython implementation of VaSST, a variational inference method for symbolic regression using soft symbolic trees, designed for interpretable and uncertainty-aware equation discovery.\nGitHub · Paper\n\n\n\n\nHierBOSSS\nPython implementation of HierBOSSS, a hierarchical Bayesian symbolic regression method using operator-induced and regularized symbolic forests for scientific equation discovery.\nGitHub · Preprint\n\n\n\n\nTAVIE-SSG\nPython implementation of TAVIE-SSG, a scalable generalized tangent approximation based variational inference framework for strongly super-Gaussian likelihoods.\nGitHub · Preprint\n\n\n\n\nAMOGP\nR implementation of AMO-GP, an additive nonparametric regression method with spatial and network-valued predictors, motivated by neuroimaging applications.\nGitHub\n\n\n\n\ndame-flame\nPython package for DAME and FLAME: a family of fast and interpretable almost-matching-exactly methods for scalable and efficient causal inference.\nPyPI · Paper\n\n\n\n\nODIN-python\nPython implementation of ODIN, an outlier-detection method for populations of network-valued observations, motivated by applications in structural connectomics.\nGitHub · Paper\n\n\n\n\nODIN-R\nR implementation of ODIN, an outlier-detection method for populations of network-valued observations, motivated by applications in structural connectomics.\nGitHub · Paper"
+    "text": "I develop and maintain software implementations (mainly in Python and R) accompanying my research on Bayesian modeling, scalable inference, scientific machine learning, and the analysis of structured data.\n\n\n\npyJASPER\nPython implementation of JASPER, a spatial basis function based count-regression framework for joint Bayesian analysis of spatial expression, for detecting spatially variable genes.\nGitHub · Preprint\n\n\n\n\nVaSST\nPython implementation of VaSST, a variational inference method for symbolic regression using soft symbolic trees, designed for interpretable and uncertainty-aware equation discovery.\nGitHub · Paper\n\n\n\n\nHierBOSSS\nPython implementation of HierBOSSS, a hierarchical Bayesian symbolic regression method using operator-induced and regularized symbolic forests for scientific equation discovery.\nGitHub · Preprint\n\n\n\n\nTAVIE-SSG\nPython implementation of TAVIE-SSG, a scalable generalized tangent approximation based variational inference framework for strongly super-Gaussian likelihoods.\nGitHub · Paper\n\n\n\n\nAMO-GP\nR implementation of AMO-GP, an additive nonparametric regression method with spatial and network-valued predictors, motivated by neuroimaging applications.\nGitHub · Preprint\n\n\n\n\ndame-flame\nPython package for DAME and FLAME: a family of fast and interpretable almost-matching-exactly methods for scalable and efficient causal inference.\nPyPI · Paper\n\n\n\n\nODIN-python\nPython implementation of ODIN, an outlier-detection method for populations of network-valued observations, motivated by applications in structural connectomics.\nGitHub · Paper\n\n\n\n\nODIN-R\nR implementation of ODIN, an outlier-detection method for populations of network-valued observations, motivated by applications in structural connectomics.\nGitHub · Paper"
   }
 ]
