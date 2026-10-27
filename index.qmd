@@ -42,14 +42,14 @@ I develop Bayesian and computational methods for structured and high-dimensional
 
 <div style="margin-top: 10px;">
 [Explore My Research →](research.qmd){.btn .btn-primary} &nbsp;&nbsp;
-<!-- [Download CV](assets/cv.pdf){.btn .btn-outline-primary} -->
+<!-- [Download CV](assets/CV.pdf){.btn .btn-outline-primary} -->
 </div>
 :::
 :::
 
 ## News
 
-- Minor revision in progress for [**TAVIE-SSG**](https://doi.org/10.48550/arXiv.2504.05431) at JASA, Theory and Methods.
-- Talk at JSM 2026 on [**TAVIE-SSG**](https://doi.org/10.48550/arXiv.2504.05431).
+- [**TAVIE-SSG**](https://doi.org/10.1080/01621459.2026.2749698) accepted at JASA (Theory and Methods).
+- Talk at JSM 2026 on [**TAVIE-SSG**](https://doi.org/10.1080/01621459.2026.2749698).
 - Started as Visiting Assistant Professor at Department of Statistics, Texas A&M University.
 - [**VaSST**](https://proceedings.mlr.press/v337/roy26a.html) accepted at UAI 2026.

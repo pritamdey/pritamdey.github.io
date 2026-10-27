@@ -28,21 +28,21 @@ Texas A&M University (Aug 2026–Present)
 - Teaching Graduate-level courses in Statistics and Data Science
 
 **Postdoctoral Research Associate**  
-Texas A&M University (Sep 2023–July 2026)  
+Texas A&M University (Sep 2023–Aug 2026)  
 
 - Bayesian modeling for spatial transcriptomics and microbiome data  
 - Collaboration with Statistics and Nutrition departments  
 
 **Graduate Research Assistant**  
-Duke University (2019–2024)  
+Duke University (2019–2023)  
 
 - Brain connectomics and network modeling  
 - Outlier detection in multi-network data  
 
 **Teaching Assistant**  
-Duke University (2019–2024)
+Duke University (2019–2023)
 
-- Linear Models; Probability; Measure Theory; Machine Learning  
+- Linear Models; Probability; Probability and Measure Theory; Predictive Modelling and Statistical Learning; Probabilistic Machine Learning
 
 ---
 
@@ -67,14 +67,14 @@ Duke University (2019–2024)
 
 ### Invited Talks
 
-- IISA Annual Meeting, 2025
-- SETCASA Annual Meeting, 2026
+- IISA Conference (2025)
+- SETCASA Annual Meeting (2026)
 
 ### Contributed Talks
 
 - Joint Statistical Meetings (2026)
-- WNAR Conference (2022)  
-- Graduate Research Conference (2022)
+- WNAR Conference (2022)
+- NISS 2nd Annual Graduate Student Research Conference (2022)
 
 ### Posters
 - TREC Annual Cancer Research Symposium (2025)

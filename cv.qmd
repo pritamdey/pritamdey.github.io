@@ -14,7 +14,7 @@ My research focuses on Bayesian modeling, variational inference, and scientific 
 </div>
 
 <div class="cv-buttons">
-[Download CV →](assets/cv.pdf){.btn .btn-primary}
+[Download CV →](assets/CV.pdf){.btn .btn-primary}
 </div>
 
 </div>
@@ -22,5 +22,5 @@ My research focuses on Bayesian modeling, variational inference, and scientific 
 ---
 
 <div class="cv-container">
-<iframe src="assets/cv.pdf"></iframe>
+<iframe src="assets/CV.pdf"></iframe>
 </div>

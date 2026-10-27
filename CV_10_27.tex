@@ -1,0 +1,229 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[letterpaper]{geometry}
+\usepackage{parskip}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[colorlinks=true,allcolors=black]{hyperref}
+\usepackage{titlesec}
+\usepackage{mathpazo}
+\usepackage{microtype}
+\usepackage{orcidlink}
+\usepackage{fontawesome5}  % for social icons
+\usepackage{etoolbox}
+\usepackage{xstring}
+\usepackage{etaremune}
+\usepackage{enumitem}
+%\newlist{etaremune}{enumerate}{1}  % <-- THIS LINE FIXES IT
+%\setlist[etaremune]{leftmargin=*, label=\arabic*., itemsep=2pt}
+
+\usepackage{setspace}
+
+\usepackage[normalem]{ulem}
+
+% Apply slightly increased spacing only to normal text
+\AtBeginDocument{
+\setstretch{1.2}
+}
+
+
+\setlength{\parindent}{0pt}
+
+\makeatletter
+\presetkeys[EM]{template}{%
+  leftmargin=2em,
+  labelwidth=1.5em,
+  labelsep=0.5em,
+  itemindent=0pt,
+  listparindent=0pt,
+  itemsep=3pt,
+  parsep=0pt,
+  topsep=3pt
+}{}
+\makeatother
+
+% in preamble
+\usepackage{tabularx}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}p{0.28\linewidth}}
+
+\newcommand{\pubitem}[3]{%
+\noindent
+\textbf{#1}\\[-0.2em]
+{\small #2} \hfill {\small #3}
+\vspace{0.4em}
+}
+
+% Smaller margins
+\geometry{margin=0.5in}
+
+% Collaborator hyperlink mapping using etoolbox’s \IfEqCase
+\newcommand{\collab}[1]{%
+  \IfEqCase{#1}{%
+    {raj}{\href{https://sites.google.com/view/rajguhaniyogi}{Dr.~Rajarshi~Guhaniyogi}}%
+    {yang}{\href{https://nystat.github.io/yni/}{Dr.~Yang~Ni}}%
+    {bani}{\href{https://sites.google.com/tamu.edu/bani-k-mallick}{Dr.~Bani~K.~Mallick}}%
+    {robb}{\href{https://chapkinlab.tamu.edu/}{Dr.~Robert~Chapkin}}%
+    {debdeep}{\href{https://stat.wisc.edu/staff/pati-debdeep/}{Dr.~Debdeep~Pati}}%
+    {somjit}{\href{https://people.tamu.edu/~sroy_123/}{Somjit~Roy}}%
+    {dunson}{\href{https://www.daviddunson.com/}{Dr.~David~B.~Dunson}}%
+    {zhengwu}{\href{https://zhengwu.github.io/}{Dr.~Zhengwu~Zhang}}%
+    {sharon}{\href{https://publish.illinois.edu/donovanlab/principal-investigator/}{Dr.~Sharon~Donovan}}%
+  }[\textit{Unknown Collaborator}]%
+}
+% Macros
+\renewcommand{\ULthickness}{0.5pt}
+\newcommand{\me}{\uline{Dey, P.}}
+
+\definecolor{moderncvblue}{RGB}{0,82,147}
+
+\titleformat{\section}{\large\bfseries\color{moderncvblue}}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.4em}{0.6em}
+\newcommand{\SectionRule}{\vspace{-0.3em}\noindent\rule{\linewidth}{1.2pt}\vspace{0.6em}}
+
+% Header and footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+
+%----- Header -----
+\begin{center}
+  {\Huge \bfseries Pritam Dey}\\[0.2in]
+  \faMapMarker*\, College Station, TX \quad\textbar\quad
+  \faEnvelope\, \href{mailto:pritam.dey@tamu.edu}{pritam.dey@tamu.edu} \quad\textbar\quad
+  \faGlobe\, \href{https://pritamdey.github.io}{pritamdey.github.io}
+  \\
+  \faLinkedin\, \href{https://linkedin.com/in/pritamdey1906}{linkedin.com/in/pritamdey1906} \quad\textbar\quad
+  \faGithub\, \href{https://github.com/pritamdey}{github.com/pritamdey} \quad\textbar\quad
+  \faOrcid\, \href{https://orcid.org/0000-0002-0323-4991}{0000-0002-0323-4991}
+\end{center}
+
+%----- Profile -----
+\section*{Bio}
+\SectionRule
+
+I am a statistician working on developing statistical models motivated by real-world scientific problems. My current work spans methodological advances in spatial transcriptomics (statistical theory and methods), variational inference and symbolic regression, as well as application-driven research in multi-omic data integration and neuroscience. I aim to design efficient, robust, and trustworthy statistical models that enable and accelerate scientific discovery.    
+
+
+%----- Work Experience -----
+\section*{Work Experience}
+\SectionRule
+%\begin{etaremune}
+
+\textbf{Visiting Assistant Professor}, \textit{Texas A\&M University } \hfill \textit{Aug 2026--Present}\\
+Research in Spatial Transcriptomics, Symbolic Regression, Variational Inference, and Machine Learning. Teaching graduate level courses.
+\vspace{0.2cm}
+
+\textbf{Postdoctoral Research Associate}, \textit{Texas A\&M University } \hfill \textit{Sep 2023--Aug 2026}\\
+  Working in several collaborative teams from the Departments of Statistics and Nutrition to develop Bayesian frameworks and computational tools for spatial transcriptomics, dietary microbiome studies, and multi-omic biomarker discovery.
+\vspace{0.2cm}
+
+\textbf{Graduate Research Assistant}, \textit{Duke University} \hfill \textit{Jan 2019--Aug 2023}\\
+  Research Assistant developing statistical models for brain structural connectomics, including outlier detection and hierarchical continuous network representation.
+\vspace{0.2cm}
+
+\textbf{Graduate Teaching Assistant}, \textit{Duke University} \hfill \textit{Aug 2019--Aug 2023}\\
+  Led labs and performed grading for graduate-level courses: Linear Models (Fall 2019), Probability (Summer 2020), Probability and Measure Theory (Fall 2020), Predictive Modelling and Statistical Learning (Fall 2021), Probabilistic Machine Learning (Spring 2023).
+%\end{etaremune}
+
+%----- Education -----
+\section*{Education}
+\SectionRule
+
+\textbf{Ph.D.\ in Statistical Science}, \textit{Duke University} \hfill \textit{2018--2023}
+  \begin{itemize}
+  \setlength{\itemsep}{-6pt}   % adjust this value
+  \item Advised by \collab{dunson}.
+  \item \textbf{Dissertation Title:} Some Advances in Statistical Modeling of Brain Structural Connectomes.
+  \end{itemize}
+  \vspace{0.1cm}
+  
+  \textbf{M.S.\ in Statistical Science}, \textit{Duke University} \hfill \textit{2018--2023}
+  \vspace{0.1cm}
+  
+  \textbf{Master of Statistics}, \textit{Indian Statistical Institute, Kolkata} \hfill \textit{2016--2018}
+  \vspace{0.1cm}
+  
+  \textbf{Bachelor of Mathematics (Hons.)}, \textit{Indian Statistical Institute, Bangalore} \hfill \textit{2013--2016}
+  \begin{itemize}
+        \item \textbf{Award:} S.H. Aravind Gold Medal for academic performance
+  \end{itemize}
+
+
+%----- Technical Skills -----
+\section*{Technical Skills}
+\SectionRule
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Statistics}: Bayesian Statistics, Variational Inference, MCMC, High-dimensional data analysis, Tree-structured modeling, Stochastic processes.
+  \item \textbf{Bioinformatics}: Spatial transcriptomics modeling, multi-omic integration, QIIME2, PICRUSt2, edgeR.
+  \item \textbf{Programming}: Python (Pandas, NumPy, Scikit-learn), R (tidyverse), SLURM, MATLAB, C/C++, SQL.
+\end{itemize}
+
+%----- Publications -----
+\section*{Publications and Preprints}
+\SectionRule
+
+\textbf{\large Published and Accepted papers}
+\begin{etaremune}
+
+  \item \textbf{A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods.}\quad  Roy, S., \me, Pati, D., Mallick, B.K. \href{https://doi.org/10.1080/01621459.2026.2749698}{\textit{Journal of the American Statistical Association (Theory and Methods)}} (2026).
+  
+  \item \textbf{VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees.}\quad  Roy, S., \me, Mallick, B.K. \href{https://proceedings.mlr.press/v337/roy26a.html}{\textit{Uncertainty in Artificial Intelligence (UAI)}} (2026).
+  
+  \item \textbf{dame-flame: a Python package providing fast interpretable matching for causal inference.}\quad  Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., \me, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A. \href{https://doi.org/10.18637/jss.v113.i02}{\textit{Journal of Statistical Software}} (2025).
+
+  \item \textbf{Outlier detection for multi-network data.}\quad  \me, Zhang, Z., Dunson, D.B. \href{https://doi.org/10.1093/bioinformatics/btac431}{\textit{Bioinformatics}} (2022).
+\end{etaremune}
+
+\vspace{0.6em}
+
+\textbf{\large Preprints and papers under review}
+\begin{etaremune}
+  \item \textbf{JASPER: Joint Bayesian Analysis of Spatial Expression via Regression.}\quad  \me, Guhaniyogi, R., Ni, Y., Mallick, B.K. \href{https://arxiv.org/abs/2604.18742}{\textit{arXiv} preprint}. \emph{Submitted}.
+  
+  \item \textbf{Additive Nonparametric Regression with Spatial and Network Objects.}\quad  Guhaniyogi, R., \me, Chandra, K., Scheffler, A., Mallick, B.K. \href{https://arxiv.org/abs/2609.26867}{\textit{arXiv} preprint}. \emph{Minor revision (Biometrics)}.
+  
+  \item \textbf{Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests.}\quad  Roy, S., \me, Pati, D., Mallick, B.K. \href{https://arxiv.org/abs/2509.19710}{\textit{arXiv} preprint}. \emph{Submitted}.
+\end{etaremune}
+
+\vspace{0.6em}
+
+\textbf{\large Manuscripts in preparation}
+\begin{enumerate}
+  \item \textbf{Joint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology.}\quad \me, Guhaniyogi, R., Ni, Y., Mallick, B.K. \emph{In preparation}.
+
+  \item \textbf{Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes.}\quad  \me, Zhang, Z., Dunson, D.B. \emph{In preparation}.
+  
+  \item \textbf{Hierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data.}\quad  \me, Zhang, Z., Dunson, D.B. \emph{In preparation}.
+  
+  \item \textbf{Noninvasive fecal multi-omic signatures for Apc\textsuperscript{S580/+}/Kras\textsuperscript{G12D/+} mice.}\quad  Ivanov, I., Mullens, D., \me, Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S. \emph{In preparation}.
+  
+  \item \textbf{Diet shapes gut microbial function and indirectly influences host gene expression in infants.}\quad  \me, Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al. \emph{In preparation}.
+\end{enumerate}
+
+%----- Presentations -----
+\section*{Presentations \& Conferences}
+\SectionRule
+
+\begin{etaremune}
+  \item \textbf{Contributed talk:} JSM 2026, \textit{Boston} \hfill \textit{2026}
+  \item \textbf{Invited talk:} SETCASA Annual Meeting, \textit{Texas A\&M University} \hfill \textit{2026}
+  \item \textbf{Invited talk:} IISA Conference, \textit{University of Nebraska--Lincoln} \hfill \textit{2025}
+  \item \textbf{Poster:} TREC Annual Cancer Research Symposium, \textit{Texas A\&M University} \hfill \textit{2025}
+  \item \textbf{Contributed talk:} NISS 2nd Annual Graduate Student Research Conference, \textit{Online} \hfill \textit{2022}
+  \item \textbf{Contributed talk:} WNAR Conference, \textit{Online} \hfill \textit{2022}
+  \item \textbf{Poster:} Statistical Methods in Imaging Conference, \textit{Online} \hfill \textit{2021}
+\end{etaremune}
+
+%----- Honors & Awards -----
+\section*{Awards}
+\SectionRule
+\begin{etaremune} 
+  \item \textbf{Rank 1} in National Eligibility Test (NET), conducted by Council of Scientific and Industrial Research (CSIR), India (2018).
+  \item \textbf{S.H.\ Aravind Gold Medal}, for outstanding performance in Bachelor of Mathematics (Hons.), ISI Bangalore (2016).
+  \item \textbf{KVPY Scholarship}, awarded by Department of Science and Technology, Govt. of India (2013--2018).
+\end{etaremune}
+
+\end{document}

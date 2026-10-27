@@ -2,7 +2,7 @@
 title: "Software Implementations"
 ---
 
-I develop and maintain software implementations (mainly in **`Python`** and **`R`** ) accompanying my research on Bayesian modeling, scalable inference, scientific machine learning, and the analysis of structured data.
+I develop and maintain software implementations (mainly in **`Python`** and **`R`**) accompanying my research on Bayesian modeling, scalable inference, scientific machine learning, and the analysis of structured data.
 
 ::: {.grid}
 
@@ -22,7 +22,7 @@ I develop and maintain software implementations (mainly in **`Python`** and **`R
 
 **`Python`** implementation of **VaSST**, a variational inference method for symbolic regression using soft symbolic trees, designed for interpretable and uncertainty-aware equation discovery.
 
-[GitHub](https://github.com/ProbabilisticSR/VaSST) · [Paper](https://proceedings.mlr.press/v337/roy26a.html)
+[GitHub](https://github.com/Roy-SR-007/VaSST) · [Paper](https://proceedings.mlr.press/v337/roy26a.html)
 :::
 :::
 
@@ -32,7 +32,7 @@ I develop and maintain software implementations (mainly in **`Python`** and **`R
 
 **`Python`** implementation of **HierBOSSS**, a hierarchical Bayesian symbolic regression method using operator-induced and regularized symbolic forests for scientific equation discovery.
 
-[GitHub](https://github.com/ProbabilisticSR/HierBOSSS) · [Preprint](https://doi.org/10.48550/arXiv.2509.19710)
+[GitHub](https://github.com/Roy-SR-007/HierBOSSS) · [Preprint](https://arxiv.org/abs/2509.19710)
 :::
 :::
 
@@ -42,17 +42,17 @@ I develop and maintain software implementations (mainly in **`Python`** and **`R
 
 **`Python`** implementation of **TAVIE-SSG**, a scalable generalized tangent approximation based variational inference framework for strongly super-Gaussian likelihoods.
 
-[GitHub](https://github.com/Roy-SR-007/TAVIE-SSG) · [Preprint](https://doi.org/10.48550/arXiv.2504.05431)
+[GitHub](https://github.com/Roy-SR-007/TAVIE-SSG) · [Paper](https://doi.org/10.1080/01621459.2026.2749698)
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.software-card}
-**AMOGP**
+**AMO-GP**
 
 **`R`** implementation of **AMO-GP**, an additive nonparametric regression method with spatial and network-valued predictors, motivated by neuroimaging applications.
 
-[GitHub](https://github.com/pritamdey/AMOGP)
+[GitHub](https://github.com/pritamdey/AMOGP) · [Preprint](https://arxiv.org/abs/2609.26867)
 :::
 :::
 

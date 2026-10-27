@@ -53,4 +53,6 @@ I am always happy to discuss research, collaborations, or academic opportunities
 
 <div><i class="bi bi-linkedin"></i> <a href="https://linkedin.com/in/pritamdey1906">LinkedIn</a></div>
 
+<div><i class="bi bi-person-badge"></i> <a href="https://orcid.org/0000-0002-0323-4991">ORCID</a></div>
+
 </div>
