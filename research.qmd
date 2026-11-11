@@ -31,12 +31,16 @@ My research develops statistical methods for **high-dimensional and structured d
 
 Spatial transcriptomics integrates gene expression with spatial information to study tissue organization and heterogeneity. My work focuses on Bayesian models for joint inference of spatial structure and gene-level variation.
 
-- **JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**  
-  **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.  
+- **JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**\
+  **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.\
   [arXiv preprint](https://arxiv.org/abs/2604.18742). Submitted. [Code](https://github.com/pritamdey/pyJASPER).
 
-- **Joint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology**  
-  **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.  
+- **Spatial immune ecosystems govern therapeutic response in HER2-low breast cancer**\
+  Ogunlusi, O., Banerjee, S., Singareeka, A.R., Akanbi, S., Sarkar, M., **Dey, P.**, Lin, B., Xu, Y., Tran, T., Fails, D., Mallick, B.K., Raso, G., Tripathy, D., Sarkar, T.R.\
+  [bioRxiv preprint](https://doi.org/10.64898/2026.08.19.745800). Submitted.
+
+- **Joint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology**\
+  **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.\
   In preparation.
 
 ---
@@ -45,8 +49,8 @@ Spatial transcriptomics integrates gene expression with spatial information to s
 
 I develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is **tangent approximation**, a computationally efficient alternative to classical variational methods with strong theoretical grounding.
 
-- **A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods**  
-  Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
+- **A Generalized Tangent Approximation based Variational Inference Framework for Strongly Super-Gaussian Likelihoods**\
+  Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.\
   *Journal of the American Statistical Association (Theory and Methods)*, 2026. [DOI](https://doi.org/10.1080/01621459.2026.2749698). [Code](https://github.com/Roy-SR-007/TAVIE-SSG).
 
 
@@ -56,12 +60,12 @@ I develop scalable approximate Bayesian inference methods for complex likelihood
 
 Symbolic regression aims to discover interpretable mathematical expressions directly from data. My work focuses on Bayesian and variational approaches for structured, uncertainty-aware symbolic learning.
 
-- **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**  
-  Roy, S., **Dey, P.**, Mallick, B.K.  
+- **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**\
+  Roy, S., **Dey, P.**, Mallick, B.K.\
   *Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence*, 2026. [PMLR](https://proceedings.mlr.press/v337/roy26a.html). [Code](https://github.com/Roy-SR-007/VaSST).
 
-- **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**  
-  Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.  
+- **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**\
+  Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.\
   [arXiv preprint](https://arxiv.org/abs/2509.19710). Submitted. [Code](https://github.com/Roy-SR-007/HierBOSSS).
   
 
@@ -71,12 +75,12 @@ Symbolic regression aims to discover interpretable mathematical expressions dire
 
 My work in bioinformatics focuses on integrating multiple omics modalities for biomarker discovery and mechanistic understanding. Key themes include representation learning, modality prioritization, and mediation analysis.
 
-- **Noninvasive fecal multi-omic signatures for Apc^S580/+^/Kras^G12D/+^ mice**  
-  Ivanov, I., Mullens, D., **Dey, P.**, Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.  
+- **Noninvasive fecal multi-omic signatures for Apc^S580/+^/Kras^G12D/+^ mice**\
+  Ivanov, I., Mullens, D., **Dey, P.**, Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.\
   In preparation.
 
-- **Diet shapes gut microbial function and indirectly influences host gene expression in infants**  
-  **Dey, P.**, Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al.  
+- **Diet shapes gut microbial function and indirectly influences host gene expression in infants**\
+  **Dey, P.**, Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al.\
   In preparation.
 
 ---
@@ -85,20 +89,20 @@ My work in bioinformatics focuses on integrating multiple omics modalities for b
 
 Neuroimaging data involves high dimensionality, multi-resolution structure, and complex interactions across modalities. My work develops scalable models for joint analysis of network and spatial imaging data.
 
-- **Additive Nonparametric Regression with Spatial and Network Objects**  
-  Guhaniyogi, R., **Dey, P.**, Chandra, K., Scheffler, A., Mallick, B.K.  
+- **Additive Nonparametric Regression with Spatial and Network Objects**\
+  Guhaniyogi, R., **Dey, P.**, Chandra, K., Scheffler, A., Mallick, B.K.\
   Minor revision, Biometrics. [arXiv preprint](https://arxiv.org/abs/2609.26867). [Code](https://github.com/pritamdey/AMOGP).
 
-- **Outlier detection for multi-network data**  
-  **Dey, P.**, Zhang, Z., Dunson, D.B.  
+- **Outlier detection for multi-network data**\
+  **Dey, P.**, Zhang, Z., Dunson, D.B.\
   *Bioinformatics*, 2022. [DOI](https://doi.org/10.1093/bioinformatics/btac431). [Code](https://github.com/pritamdey/ODIN-python).
 
-- **Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes**  
-  **Dey, P.**, Zhang, Z., Dunson, D.B.  
+- **Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes**\
+  **Dey, P.**, Zhang, Z., Dunson, D.B.\
   In preparation.
 
-- **Hierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data**  
-  **Dey, P.**, Zhang, Z., Dunson, D.B.  
+- **Hierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data**\
+  **Dey, P.**, Zhang, Z., Dunson, D.B.\
   In preparation.
 
 ---
@@ -107,8 +111,8 @@ Neuroimaging data involves high dimensionality, multi-resolution structure, and 
 
 I have worked on scalable matching-based methods for causal inference, with emphasis on interpretability and computational efficiency in large datasets.
 
-- **dame-flame: a Python package providing fast interpretable matching for causal inference**  
-  Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.  
+- **dame-flame: a Python package providing fast interpretable matching for causal inference**\
+  Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\
   *Journal of Statistical Software*, 2025. [DOI](https://doi.org/10.18637/jss.v113.i02). [PyPI](https://pypi.org/project/dame-flame/).
 
 

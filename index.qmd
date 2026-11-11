@@ -49,6 +49,7 @@ I develop Bayesian and computational methods for structured and high-dimensional
 
 ## News
 
+- New preprint on [**spatial immune ecosystems in HER2-low breast cancer**](https://doi.org/10.64898/2026.08.19.745800) posted on bioRxiv.
 - [**TAVIE-SSG**](https://doi.org/10.1080/01621459.2026.2749698) accepted at JASA (Theory and Methods).
 - Talk at JSM 2026 on [**TAVIE-SSG**](https://doi.org/10.1080/01621459.2026.2749698).
 - Started as Visiting Assistant Professor at Department of Statistics, Texas A&M University.

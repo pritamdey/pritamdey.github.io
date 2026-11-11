@@ -4,55 +4,59 @@ title: "Publications"
 
 ## Published and Accepted Papers
 
-1. **A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods**
-   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.
+1. **A Generalized Tangent Approximation based Variational Inference Framework for Strongly Super-Gaussian Likelihoods**\
+   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.\
    *Journal of the American Statistical Association (Theory and Methods)*, 2026. [DOI](https://doi.org/10.1080/01621459.2026.2749698).
 
-2. **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**
-   Roy, S., **Dey, P.**, Mallick, B.K.
+2. **VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees**\
+   Roy, S., **Dey, P.**, Mallick, B.K.\
    *Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence*, 2026. [PMLR](https://proceedings.mlr.press/v337/roy26a.html).
 
-3. **dame-flame: a Python package providing fast interpretable matching for causal inference**
-   Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.
+3. **dame-flame: a Python package providing fast interpretable matching for causal inference**\
+   Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., **Dey, P.**, Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\
    *Journal of Statistical Software*, 2025. [DOI](https://doi.org/10.18637/jss.v113.i02).
 
-4. **Outlier detection for multi-network data**
-   **Dey, P.**, Zhang, Z., Dunson, D.B.
+4. **Outlier detection for multi-network data**\
+   **Dey, P.**, Zhang, Z., Dunson, D.B.\
    *Bioinformatics*, 2022. [DOI](https://doi.org/10.1093/bioinformatics/btac431).
 
 ---
 
 ## Preprints and Papers Under Review
 
-1. **JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**
-   **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.
+1. **Spatial immune ecosystems govern therapeutic response in HER2-low breast cancer**\
+   Ogunlusi, O., Banerjee, S., Singareeka, A.R., Akanbi, S., Sarkar, M., **Dey, P.**, Lin, B., Xu, Y., Tran, T., Fails, D., Mallick, B.K., Raso, G., Tripathy, D., Sarkar, T.R.\
+   *bioRxiv preprint*. Submitted. [bioRxiv](https://doi.org/10.64898/2026.08.19.745800).
+
+2. **JASPER: Joint Bayesian Analysis of Spatial Expression via Regression**\
+   **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.\
    *arXiv preprint*. Submitted. [arXiv](https://arxiv.org/abs/2604.18742).
 
-2. **Additive Nonparametric Regression with Spatial and Network Objects**
-   Guhaniyogi, R., **Dey, P.**, Chandra, K., Scheffler, A., Mallick, B.K.
+3. **Additive Nonparametric Regression with Spatial and Network Objects**\
+   Guhaniyogi, R., **Dey, P.**, Chandra, K., Scheffler, A., Mallick, B.K.\
    *arXiv preprint*. Minor revision, Biometrics. [arXiv](https://arxiv.org/abs/2609.26867).
 
-3. **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**
-   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.
+4. **Probabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests**\
+   Roy, S., **Dey, P.**, Pati, D., Mallick, B.K.\
    *arXiv preprint*. Submitted. [arXiv](https://arxiv.org/abs/2509.19710).
 
 ---
 
 ## Manuscripts in Preparation
 
-1. **Joint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology**
+1. **Joint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology**\
    **Dey, P.**, Guhaniyogi, R., Ni, Y., Mallick, B.K.
 
-2. **Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes**
+2. **Ensembles of Mondrian Processes for Continuous Modeling of Structural Connectomes**\
    **Dey, P.**, Zhang, Z., Dunson, D.B.
 
-3. **Hierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data**
+3. **Hierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data**\
    **Dey, P.**, Zhang, Z., Dunson, D.B.
 
-4. **Noninvasive fecal multi-omic signatures for Apc^S580/+^/Kras^G12D/+^ mice**
+4. **Noninvasive fecal multi-omic signatures for Apc^S580/+^/Kras^G12D/+^ mice**\
    Ivanov, I., Mullens, D., **Dey, P.**, Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.
 
-5. **Diet shapes gut microbial function and indirectly influences host gene expression in infants**
+5. **Diet shapes gut microbial function and indirectly influences host gene expression in infants**\
    **Dey, P.**, Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al.
 
 <!-- Published and preprint lists are written newest first; number them counting down (Pandoc can't emit `reversed`). -->
