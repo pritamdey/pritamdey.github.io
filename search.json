@@ -67,7 +67,7 @@
     "href": "index.html#news",
     "title": "Pritam Dey",
     "section": "News",
-    "text": "News\n\nTAVIE-SSG accepted at JASA (Theory and Methods).\nTalk at JSM 2026 on TAVIE-SSG.\nStarted as Visiting Assistant Professor at Department of Statistics, Texas A&M University.\nVaSST accepted at UAI 2026."
+    "text": "News\n\nNew preprint on spatial immune ecosystems in HER2-low breast cancer posted on bioRxiv.\nTAVIE-SSG accepted at JASA (Theory and Methods).\nTalk at JSM 2026 on TAVIE-SSG.\nStarted as Visiting Assistant Professor at Department of Statistics, Texas A&M University.\nVaSST accepted at UAI 2026."
   },
   {
     "objectID": "research.html",
@@ -81,14 +81,14 @@
     "href": "research.html#spatial-transcriptomics",
     "title": "Research",
     "section": "Spatial Transcriptomics",
-    "text": "Spatial Transcriptomics\nSpatial transcriptomics integrates gene expression with spatial information to study tissue organization and heterogeneity. My work focuses on Bayesian models for joint inference of spatial structure and gene-level variation.\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. Code.\nJoint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation."
+    "text": "Spatial Transcriptomics\nSpatial transcriptomics integrates gene expression with spatial information to study tissue organization and heterogeneity. My work focuses on Bayesian models for joint inference of spatial structure and gene-level variation.\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. Code.\nSpatial immune ecosystems govern therapeutic response in HER2-low breast cancer\nOgunlusi, O., Banerjee, S., Singareeka, A.R., Akanbi, S., Sarkar, M., Dey, P., Lin, B., Xu, Y., Tran, T., Fails, D., Mallick, B.K., Raso, G., Tripathy, D., Sarkar, T.R.\nbioRxiv preprint. Submitted.\nJoint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nIn preparation."
   },
   {
     "objectID": "research.html#variational-inference",
     "href": "research.html#variational-inference",
     "title": "Research",
     "section": "Variational Inference",
-    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\nJournal of the American Statistical Association (Theory and Methods), 2026. DOI. Code."
+    "text": "Variational Inference\nI develop scalable approximate Bayesian inference methods for complex likelihoods. A central theme is tangent approximation, a computationally efficient alternative to classical variational methods with strong theoretical grounding.\n\nA Generalized Tangent Approximation based Variational Inference Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\nJournal of the American Statistical Association (Theory and Methods), 2026. DOI. Code."
   },
   {
     "objectID": "research.html#symbolic-regression",
@@ -130,28 +130,28 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods Roy, S., Dey, P., Pati, D., Mallick, B.K. Journal of the American Statistical Association (Theory and Methods), 2026. DOI.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees Roy, S., Dey, P., Mallick, B.K. Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR.\ndame-flame: a Python package providing fast interpretable matching for causal inference Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A. Journal of Statistical Software, 2025. DOI.\nOutlier detection for multi-network data Dey, P., Zhang, Z., Dunson, D.B. Bioinformatics, 2022. DOI."
+    "text": "A Generalized Tangent Approximation based Variational Inference Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\nJournal of the American Statistical Association (Theory and Methods), 2026. DOI.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\nProceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR.\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI."
   },
   {
     "objectID": "publications.html#published-and-accepted-papers",
     "href": "publications.html#published-and-accepted-papers",
     "title": "Publications",
     "section": "",
-    "text": "A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods Roy, S., Dey, P., Pati, D., Mallick, B.K. Journal of the American Statistical Association (Theory and Methods), 2026. DOI.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees Roy, S., Dey, P., Mallick, B.K. Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR.\ndame-flame: a Python package providing fast interpretable matching for causal inference Gupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A. Journal of Statistical Software, 2025. DOI.\nOutlier detection for multi-network data Dey, P., Zhang, Z., Dunson, D.B. Bioinformatics, 2022. DOI."
+    "text": "A Generalized Tangent Approximation based Variational Inference Framework for Strongly Super-Gaussian Likelihoods\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\nJournal of the American Statistical Association (Theory and Methods), 2026. DOI.\nVaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees\nRoy, S., Dey, P., Mallick, B.K.\nProceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, 2026. PMLR.\ndame-flame: a Python package providing fast interpretable matching for causal inference\nGupta, N.R., Orlandi, V., Chang, C.-R., Wang, T., Morucci, M., Dey, P., Howell, T.J., Sun, X., Ghosal, A., Roy, S., Rudin, C., Volfovsky, A.\nJournal of Statistical Software, 2025. DOI.\nOutlier detection for multi-network data\nDey, P., Zhang, Z., Dunson, D.B.\nBioinformatics, 2022. DOI."
   },
   {
     "objectID": "publications.html#preprints-and-papers-under-review",
     "href": "publications.html#preprints-and-papers-under-review",
     "title": "Publications",
     "section": "Preprints and Papers Under Review",
-    "text": "Preprints and Papers Under Review\n\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression Dey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K. arXiv preprint. Submitted. arXiv.\nAdditive Nonparametric Regression with Spatial and Network Objects Guhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K. arXiv preprint. Minor revision, Biometrics. arXiv.\nProbabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests Roy, S., Dey, P., Pati, D., Mallick, B.K. arXiv preprint. Submitted. arXiv."
+    "text": "Preprints and Papers Under Review\n\nSpatial immune ecosystems govern therapeutic response in HER2-low breast cancer\nOgunlusi, O., Banerjee, S., Singareeka, A.R., Akanbi, S., Sarkar, M., Dey, P., Lin, B., Xu, Y., Tran, T., Fails, D., Mallick, B.K., Raso, G., Tripathy, D., Sarkar, T.R.\nbioRxiv preprint. Submitted. bioRxiv.\nJASPER: Joint Bayesian Analysis of Spatial Expression via Regression\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\narXiv preprint. Submitted. arXiv.\nAdditive Nonparametric Regression with Spatial and Network Objects\nGuhaniyogi, R., Dey, P., Chandra, K., Scheffler, A., Mallick, B.K.\narXiv preprint. Minor revision, Biometrics. arXiv.\nProbabilistic Symbolic Regression for Equation Discovery via Operator-induced and Regularized Symbolic Forests\nRoy, S., Dey, P., Pati, D., Mallick, B.K.\narXiv preprint. Submitted. arXiv."
   },
   {
     "objectID": "publications.html#manuscripts-in-preparation",
     "href": "publications.html#manuscripts-in-preparation",
     "title": "Publications",
     "section": "Manuscripts in Preparation",
-    "text": "Manuscripts in Preparation\n\nJoint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology Dey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes Dey, P., Zhang, Z., Dunson, D.B.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data Dey, P., Zhang, Z., Dunson, D.B.\nNoninvasive fecal multi-omic signatures for ApcS580/+/KrasG12D/+ mice Ivanov, I., Mullens, D., Dey, P., Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.\nDiet shapes gut microbial function and indirectly influences host gene expression in infants Dey, P., Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al."
+    "text": "Manuscripts in Preparation\n\nJoint Bayesian Inference of Spatial Domains and Domain-Specific Differentially Expressed Genes from Spatial Transcriptomics and Histology\nDey, P., Guhaniyogi, R., Ni, Y., Mallick, B.K.\nEnsembles of Mondrian Processes for Continuous Modeling of Structural Connectomes\nDey, P., Zhang, Z., Dunson, D.B.\nHierarchical Ensembles of Mondrian Processes for Simultaneous Modeling of Common and Individual Structure of Connectome Data\nDey, P., Zhang, Z., Dunson, D.B.\nNoninvasive fecal multi-omic signatures for ApcS580/+/KrasG12D/+ mice\nIvanov, I., Mullens, D., Dey, P., Chung, H.C., Gaynanova, I., Ni, Y., Ufondu, A., Yang, F., Han, H., Woods, P., Goldsby, J.S., Davidson, L.A., Safe, S.H., Jayaraman, A., Chapkin, R.S.\nDiet shapes gut microbial function and indirectly influences host gene expression in infants\nDey, P., Mullens, D., Ivanov, I., Chapkin, R., Donovan, S., et al."
   },
   {
     "objectID": "software.html",
